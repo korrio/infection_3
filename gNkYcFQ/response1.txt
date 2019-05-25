@@ -1,0 +1,5 @@
+--------- Login.inf -----------
+User: http://folkrice.com/wp-amg/t.php
+Pass: http://folkrice.com/wp-amg/t.php
+-Ip:  129.152.159.61
+--------- Login.inf -----------

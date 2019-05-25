@@ -1,0 +1,25 @@
+/*
+Theme Name: Faded
+Theme URI: http://droitthemes.com/wp/faded/
+Author: droitthemes
+Author URI: https://themeforest.net/user/droitthemes
+Description: App Landing Page with blog
+Version: 1.8.1
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-images, flexible-header,post-formats, rtl-language-support, sticky-post, threaded-comments, translation-ready, blog
+Text Domain: faded
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+.sticky .posted-on,
+.byline {
+	display: none;
+}
+.screen-reader-text {
+    position: absolute !important;
+    left: -999em;
+}
+

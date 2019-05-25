@@ -1,0 +1,3119 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Faded\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-05-16 12:01+0000\n"
+"PO-Revision-Date: 2017-05-18 10:12+0000\n"
+"Last-Translator: admin <faded.wp@gmail.com>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: archive.php:54 index.php:50 page.php:41 search.php:41 single.php:48
+msgid "Home"
+msgstr ""
+
+#: archive.php:102 index.php:99 search.php:89
+msgid "Featured Post"
+msgstr ""
+
+#: archive.php:131 index.php:129 search.php:118
+msgid "Read more"
+msgstr ""
+
+#: comments.php:52
+msgid "Leave a comment"
+msgstr ""
+
+#: comments.php:53
+#, php-format
+msgid "Leave a comment to %s"
+msgstr ""
+
+#: comments.php:58
+msgid "Cancel reply"
+msgstr ""
+
+#: comments.php:59
+msgid "post comment"
+msgstr ""
+
+#: functions.php:41
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:229
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:229
+msgid "Blog sidebar, Only for blog pages."
+msgstr ""
+
+#: functions.php:230
+msgid "Page Sidebar"
+msgstr ""
+
+#: functions.php:230
+msgid "Page sidebar, Only for Pages."
+msgstr ""
+
+#: page.php:60
+msgid "Next"
+msgstr ""
+
+#: page.php:61
+msgid "Prev"
+msgstr ""
+
+#: searchform.php:13
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: searchform.php:15
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: single.php:116
+msgid "Share it"
+msgstr ""
+
+#: framework-customizations/dt_functions.php:174
+msgid "Install Required Plugins"
+msgstr ""
+
+#: framework-customizations/dt_functions.php:175
+msgid "Install Plugins"
+msgstr ""
+
+#: framework-customizations/dt_functions.php:176
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: framework-customizations/dt_functions.php:177
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: framework-customizations/dt_functions.php:178
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework-customizations/dt_functions.php:179
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework-customizations/dt_functions.php:180
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s plugins."
+" Contact the administrator of this site for help on getting the plugins "
+"installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework-customizations/dt_functions.php:181
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework-customizations/dt_functions.php:182
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework-customizations/dt_functions.php:183
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s plugin."
+" Contact the administrator of this site for help on getting the plugin "
+"activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework-customizations/dt_functions.php:184
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework-customizations/dt_functions.php:185
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework-customizations/dt_functions.php:186
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework-customizations/dt_functions.php:187
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework-customizations/dt_functions.php:188
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: framework-customizations/dt_functions.php:189
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: framework-customizations/dt_functions.php:190
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: inc/back-compat.php:36 inc/back-compat.php:48 inc/back-compat.php:63
+#, php-format
+msgid ""
+"Faded requires at least WordPress version 4.4. You are running version %s. "
+"Please upgrade and try again."
+msgstr ""
+
+#: inc/template-tags.php:47
+msgid "<i class=\"fa fa-angle-double-left\"></i>"
+msgstr ""
+
+#: inc/template-tags.php:48
+msgid "<i class=\"fa fa-angle-double-right\"></i>"
+msgstr ""
+
+#: inc/template-tags.php:68
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr ""
+
+#: inc/template-tags.php:78
+msgctxt "Used before post format."
+msgid "Format"
+msgstr ""
+
+#: inc/template-tags.php:88
+#, php-format
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/template-tags.php:109
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr ""
+
+#: inc/template-tags.php:120 inc/template-tags.php:126
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:122
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr ""
+
+#: inc/template-tags.php:128
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr ""
+
+#: inc/template-tags.php:187
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#. Name of the template
+msgid "Home multi page"
+msgstr ""
+
+#. Name of the template
+msgid "Home one page"
+msgstr ""
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:17
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:21
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:26
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: theme-assets/dt_assets.php:55
+msgctxt "Merriweather font: on or off"
+msgid "on"
+msgstr ""
+
+#. If there are characters in your language that are not supported by Montserrat, translate this to 'off'. Do not translate into your own language.
+#: theme-assets/dt_assets.php:61
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr ""
+
+#. If there are characters in your language that are not supported by Inconsolata, translate this to 'off'. Do not translate into your own language.
+#: theme-assets/dt_assets.php:67
+msgctxt "Inconsolata font: on or off"
+msgid "on"
+msgstr ""
+
+#: theme-assets/dt_assets.php:145
+msgid "expand child menu"
+msgstr ""
+
+#: theme-assets/dt_assets.php:146
+msgid "collapse child menu"
+msgstr ""
+
+#: demo-content/demo-name/manifest.php:7
+msgid "Awesome Demo"
+msgstr ""
+
+#: theme-assets/multi-task/theme_icon_set.php:172
+msgid "Linearicons"
+msgstr ""
+
+#: theme-assets/multi-task/theme_icon_set.php:173
+msgid "Ionicons Icons"
+msgstr ""
+
+#: theme-assets/multi-task/theme_icon_set.php:174
+msgid "Fontawesome Icons"
+msgstr ""
+
+#. Name of the theme
+#: framework-customizations/theme-desk/header/dt_header.php:81
+#: framework-customizations/theme-desk/header/dt_header.php:186
+msgid "Faded"
+msgstr ""
+
+#: framework-customizations/theme-desk/header/dt_header.php:102
+#: framework-customizations/theme-desk/header/dt_header.php:227
+msgid "No Menu"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/404-options.php:8
+#: framework-customizations/theme/options/droitoptions/404-options.php:12
+msgid "404 Settings"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/404-options.php:16
+#: framework-customizations/extensions/shortcodes/shortcodes/heading/config.php:8
+msgid "Heading"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/404-options.php:19
+msgid "404 heading text."
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/404-options.php:22
+#: framework-customizations/extensions/shortcodes/shortcodes/accordions/options.php:26
+#: framework-customizations/extensions/shortcodes/shortcodes/feature/options.php:65
+#: framework-customizations/extensions/shortcodes/shortcodes/funfacts/options.php:96
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php:32
+#: framework-customizations/extensions/shortcodes/shortcodes/working-process/options.php:45
+msgid "Content"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/404-options.php:25
+msgid "Enter 404 page description text."
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/404-options.php:29
+#: framework-customizations/extensions/shortcodes/shortcodes/header/options.php:70
+#: framework-customizations/extensions/shortcodes/shortcodes/header-image/options.php:73
+#: framework-customizations/extensions/shortcodes/shortcodes/header-video/options.php:74
+#: framework-customizations/extensions/shortcodes/shortcodes/slider/options.php:70
+msgid "Button Label"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/404-options.php:30
+msgid "Enter button label"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/404-options.php:35
+#: framework-customizations/theme/options/droitoptions/blog-options.php:112
+#: framework-customizations/theme/options/droitoptions/posts-options.php:128
+#: framework-customizations/extensions/shortcodes/shortcodes/buttons/options.php:14
+#: framework-customizations/extensions/shortcodes/shortcodes/header/options.php:76
+#: framework-customizations/extensions/shortcodes/shortcodes/header-image/options.php:79
+#: framework-customizations/extensions/shortcodes/shortcodes/header-video/options.php:80
+#: framework-customizations/extensions/shortcodes/shortcodes/latestblog/options.php:54
+#: framework-customizations/extensions/shortcodes/shortcodes/pricing/options.php:108
+#: framework-customizations/extensions/shortcodes/shortcodes/slider/options.php:76
+msgid "Button Link"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/404-options.php:36
+#: framework-customizations/theme/options/droitoptions/blog-options.php:113
+#: framework-customizations/theme/options/droitoptions/posts-options.php:129
+msgid "Enter link URL related to the button"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/api-settings.php:10
+msgid "Api Settings"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/api-settings.php:13
+msgid "Gmap"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/api-settings.php:19
+msgid " Google Map Key"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/api-settings.php:20
+msgid ""
+"Enter Google Map API key. Default:key AIzaSyBumN1FxU0vF8HVI_qy9yFlwcZ4Wop_RtY"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/api-settings.php:25
+msgid "Mail Chimp"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/api-settings.php:31
+msgid "Mailchimp Shortcode"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/api-settings.php:32
+msgid "Enter your mailchimp shortcode here"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/blog-options.php:9
+#: framework-customizations/theme/options/droitoptions/blog-options.php:13
+msgid "Blog Settings"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/blog-options.php:17
+msgid "Blog Title"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/blog-options.php:20
+msgid ""
+"Set title of your blog section (for one-page layout) or blog page (for multi-"
+"page layout)"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/blog-options.php:23
+msgid "Breadcrumb Setting"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/blog-options.php:27
+#: framework-customizations/theme/options/droitoptions/blog-options.php:58
+#: framework-customizations/theme/options/droitoptions/header-options.php:48
+#: framework-customizations/theme/options/droitoptions/loader-options.php:21
+#: framework-customizations/theme/options/droitoptions/page-options.php:22
+#: framework-customizations/theme/options/droitoptions/page-options.php:41
+#: framework-customizations/theme/options/droitoptions/posts-options.php:27
+#: framework-customizations/theme/options/droitoptions/posts-options.php:41
+#: framework-customizations/theme/options/droitoptions/posts-options.php:78
+#: framework-customizations/extensions/shortcodes/shortcodes/contact-info/options.php:51
+#: framework-customizations/extensions/shortcodes/shortcodes/pricing/options.php:13
+#: framework-customizations/extensions/shortcodes/shortcodes/team-member/options.php:61
+msgid "Yes"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/blog-options.php:31
+#: framework-customizations/theme/options/droitoptions/blog-options.php:62
+#: framework-customizations/theme/options/droitoptions/header-options.php:52
+#: framework-customizations/theme/options/droitoptions/loader-options.php:25
+#: framework-customizations/theme/options/droitoptions/page-options.php:26
+#: framework-customizations/theme/options/droitoptions/page-options.php:45
+#: framework-customizations/theme/options/droitoptions/posts-options.php:31
+#: framework-customizations/theme/options/droitoptions/posts-options.php:45
+#: framework-customizations/theme/options/droitoptions/posts-options.php:74
+#: framework-customizations/extensions/shortcodes/shortcodes/contact-info/options.php:55
+#: framework-customizations/extensions/shortcodes/shortcodes/pricing/options.php:17
+#: framework-customizations/extensions/shortcodes/shortcodes/team-member/options.php:65
+msgid "No"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/blog-options.php:34
+#: framework-customizations/theme/options/droitoptions/posts-options.php:34
+msgid "Do you want to show breadcrumb?"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/blog-options.php:38
+msgid "Blog Breadcrumb Title"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/blog-options.php:40
+msgid "Insert blog breadcumb title"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/blog-options.php:43
+msgid "Post Per Page"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/blog-options.php:46
+msgid "How many post do you want to show in blog page?"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/blog-options.php:54
+#: framework-customizations/theme/options/droitoptions/posts-options.php:70
+msgid "Get App Settings"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/blog-options.php:65
+#: framework-customizations/theme/options/droitoptions/posts-options.php:81
+msgid ""
+"If you want to show \"Get App\" option, please turn on this option and setup "
+"your contents"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/blog-options.php:71
+msgid "Get App Section BG"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/blog-options.php:72
+#: framework-customizations/theme/options/droitoptions/posts-options.php:88
+msgid "Upload \"Get App\" section background image if you want."
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/blog-options.php:76
+#: framework-customizations/theme/options/droitoptions/posts-options.php:92
+msgid "Get App Heading"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/blog-options.php:79
+#: framework-customizations/theme/options/droitoptions/posts-options.php:95
+msgid "\"Get App\" heading title"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/blog-options.php:82
+#: framework-customizations/theme/options/droitoptions/posts-options.php:98
+msgid "Get App Content"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/blog-options.php:84
+#: framework-customizations/theme/options/droitoptions/posts-options.php:100
+msgid "Enter \"Get App\" content"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/blog-options.php:87
+#: framework-customizations/theme/options/droitoptions/posts-options.php:103
+msgid "Download Buttons Title"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/blog-options.php:90
+#: framework-customizations/theme/options/droitoptions/posts-options.php:106
+msgid "Enter title for app download buttons from various stores"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/blog-options.php:93
+#: framework-customizations/theme/options/droitoptions/posts-options.php:109
+#: framework-customizations/extensions/shortcodes/shortcodes/buttons/config.php:8
+#: framework-customizations/extensions/shortcodes/shortcodes/header/options.php:57
+msgid "Buttons"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/blog-options.php:94
+#: framework-customizations/theme/options/droitoptions/posts-options.php:110
+#: framework-customizations/extensions/shortcodes/shortcodes/header/options.php:58
+#: framework-customizations/extensions/shortcodes/shortcodes/header/options.php:85
+#: framework-customizations/extensions/shortcodes/shortcodes/header-video/options.php:89
+#: framework-customizations/extensions/shortcodes/shortcodes/slider/options.php:58
+#: framework-customizations/extensions/shortcodes/shortcodes/slider/options.php:85
+msgid "Add/Edit Buttons"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/blog-options.php:95
+#: framework-customizations/theme/options/droitoptions/posts-options.php:111
+#: framework-customizations/extensions/shortcodes/shortcodes/header/options.php:59
+#: framework-customizations/extensions/shortcodes/shortcodes/header/options.php:86
+msgid "Here you can add, remove and edit your Buttons."
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/blog-options.php:100
+#: framework-customizations/theme/options/droitoptions/posts-options.php:116
+#: framework-customizations/extensions/shortcodes/shortcodes/header/options.php:64
+#: framework-customizations/extensions/shortcodes/shortcodes/header-image/options.php:67
+#: framework-customizations/extensions/shortcodes/shortcodes/header-video/options.php:68
+#: framework-customizations/extensions/shortcodes/shortcodes/slider/options.php:64
+msgid "Button title"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/blog-options.php:101
+#: framework-customizations/theme/options/droitoptions/posts-options.php:117
+msgid "Enter button title"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/blog-options.php:106
+msgid "Button Image"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/blog-options.php:107
+#: framework-customizations/theme/options/droitoptions/posts-options.php:123
+msgid "Enter button image"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/blog-options.php:120
+#: framework-customizations/theme/options/droitoptions/posts-options.php:136
+msgid "Get Right Side Img"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/blog-options.php:121
+#: framework-customizations/theme/options/droitoptions/posts-options.php:137
+msgid "Upload right side image for \"Get App\" section"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/colorandstyle-options.php:12
+msgid "Color Style"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/colorandstyle-options.php:16
+msgid "Custom Color"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/colorandstyle-options.php:20
+msgid "Custom CSS"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/colorandstyle-options.php:27
+msgid "Primary Solid Color"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/colorandstyle-options.php:30
+msgid "Choose primary color. Default color is #4776e6."
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/colorandstyle-options.php:33
+msgid "Primary Gradient Color"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/colorandstyle-options.php:39
+msgid "Choose primary gradient color"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/colorandstyle-options.php:42
+#: framework-customizations/theme/options/droitoptions/footer-options.php:32
+#: framework-customizations/extensions/shortcodes/shortcodes/feature/options.php:40
+#: framework-customizations/extensions/shortcodes/shortcodes/funfacts/options.php:60
+#: framework-customizations/extensions/shortcodes/shortcodes/mycontactform/options.php:17
+#: framework-customizations/extensions/shortcodes/shortcodes/sectiontitle/options.php:14
+#: framework-customizations/extensions/shortcodes/shortcodes/working-process/options.php:32
+msgid "Title Color"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/colorandstyle-options.php:45
+msgid "Choose Title color. Default color is #303030."
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/colorandstyle-options.php:48
+msgid "Body Color"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/colorandstyle-options.php:51
+msgid "Choose body color. Default color is #606060"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/footer-options.php:8
+#: framework-customizations/theme/options/droitoptions/footer-options.php:12
+msgid "Footer Settings"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/footer-options.php:16
+msgid "Background"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/footer-options.php:17
+msgid "Upload footer section background image if you want."
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/footer-options.php:21
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:48
+msgid "Background Color"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/footer-options.php:22
+msgid "Select bg color of footer. Default color is #4776e6."
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/footer-options.php:28
+msgid "Footer Title"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/footer-options.php:29
+msgid "Enter footer title."
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/footer-options.php:33
+msgid "Select color of footer title. Default color is #000."
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/footer-options.php:38
+#: framework-customizations/extensions/shortcodes/shortcodes/funfacts/options.php:66
+#: framework-customizations/extensions/shortcodes/shortcodes/mycontactform/options.php:13
+msgid "Title Font Size"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/footer-options.php:39
+msgid ""
+"Select footer title font size. No need to insert \"px\". Default font size "
+"is 46px."
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/footer-options.php:45
+msgid "Footer Text"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/footer-options.php:46
+msgid "Enter footer text."
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/footer-options.php:49
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:54
+msgid "Text Color"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/footer-options.php:50
+msgid "Enter footer text color. Default color is #b89841."
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/footer-options.php:55
+msgid "Text Font Size"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/footer-options.php:56
+msgid ""
+"Enter font size of  footer text. No need to insert \"px\". Default font size "
+"is 16px."
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/footer-options.php:61
+msgid "Copyright Info"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/footer-options.php:64
+msgid "Insert Copyright Info."
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/header-options.php:9
+#: framework-customizations/theme/options/droitoptions/header-options.php:13
+msgid "Header Options"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/header-options.php:17
+msgid "Favicon"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/header-options.php:18
+msgid "Upload your favicon image"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/header-options.php:27
+msgid "Select Menu"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/header-options.php:30
+msgid "One-page"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/header-options.php:31
+msgid "Multi-page"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/header-options.php:33
+msgid ""
+"Please select menu depending on where you want to build a one-page or multi-"
+"page website"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/header-options.php:44
+msgid "Is Get Now Button"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/header-options.php:55
+msgid ""
+"If you want to show \"Get Now Button\" option, please turn on this option "
+"and enter your contents"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/header-options.php:61
+msgid "Get Now Text"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/header-options.php:64
+msgid "\"Get now\" text"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/header-options.php:71
+msgid "Header horizontal"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/header-options.php:84
+msgid "Logo Options"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/header-options.php:87
+msgid "Text Logo"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/header-options.php:88
+msgid "Image Logo"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/header-options.php:90
+msgid "Select your logo type."
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/header-options.php:97
+msgid "Logo Text"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/header-options.php:101
+msgid "Logo Color"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/header-options.php:104
+msgid "Choose your logo color. Default color is #FFFFFF."
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/header-options.php:109
+msgid "Outer Logo Image"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/header-options.php:110
+msgid "Upload your Outer logo here."
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/header-options.php:114
+msgid "Inner Logo Image"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/header-options.php:115
+msgid "Upload your Inner logo here."
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/header-options.php:119
+msgid "Logo Height"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/header-options.php:120
+msgid "Insert your logo height. Please don't insert px"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/header-options.php:124
+msgid "Logo Padding Top"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/header-options.php:125
+msgid ""
+"Insert your logo padding top. Default padding is 0px, Please don't insert px"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/loader-options.php:9
+#: framework-customizations/theme/options/droitoptions/loader-options.php:13
+msgid "Loader Settings"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/loader-options.php:17
+msgid "Loader Status"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/loader-options.php:28
+msgid "Do you want to show preloader?"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/loader-options.php:31
+msgid "Loader Picker"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/loader-options.php:34
+msgid "Select your loader please."
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/page-options.php:10
+#: framework-customizations/theme/options/droitoptions/page-options.php:14
+msgid "Section Settings"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/page-options.php:18
+msgid "Is Section?"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/page-options.php:34
+msgid ""
+"Do you want to show this page a section in home page? Change the status "
+"\"Yes\"."
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/page-options.php:37
+msgid "Disable From Menu?"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/page-options.php:53
+msgid "Do you want to disable this page from menu? Change the status \"Yes\"."
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/page-options.php:60
+#: framework-customizations/theme/options/droitoptions/page-options.php:64
+msgid "Page Settings"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/page-options.php:68
+msgid "Bread Cum Title"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/page-options.php:69
+msgid "Please insert your breadcum title here"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/page-options.php:75
+msgid "Custom Page Title"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/page-options.php:77
+msgid "You can insert a custom page title here for title section. "
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/post-options.php:9
+#: framework-customizations/theme/options/droitoptions/post-options.php:13
+msgid "Audio"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/post-options.php:18
+msgid "Audio Embed"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/post-options.php:26
+#: framework-customizations/theme/options/droitoptions/post-options.php:30
+msgid "Video"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/post-options.php:35
+msgid "Video Embed"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/posts-options.php:9
+#: framework-customizations/theme/options/droitoptions/posts-options.php:13
+msgid "Single Post Settings"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/posts-options.php:17
+msgid "Single Post Page Title"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/posts-options.php:20
+msgid ""
+"Enter title for single blog post page title. This is the general, common "
+"title for all single posts."
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/posts-options.php:23
+msgid "Breadcrumb Settings"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/posts-options.php:37
+msgid "Social Sharing"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/posts-options.php:48
+msgid "Do you want to show social sharing options?"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/posts-options.php:51
+msgid "Sharing Sources"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/posts-options.php:54
+msgid "Select social medias that you want to enable sharing."
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/posts-options.php:56
+msgid "Twitter"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/posts-options.php:57
+msgid "Facebook"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/posts-options.php:58
+msgid "Google Plus"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/posts-options.php:59
+msgid "Pinterest"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/posts-options.php:60
+msgid "Linkedin"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/posts-options.php:61
+msgid "Reddit"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/posts-options.php:87
+msgid "Get Section BG"
+msgstr ""
+
+#: framework-customizations/theme/options/droitoptions/posts-options.php:122
+msgid " Button Image"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/accordions/config.php:8
+msgid "FAQ Accordions"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/accordions/config.php:9
+msgid "Add some FAQ Accordions"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/accordions/config.php:10
+#: framework-customizations/extensions/shortcodes/shortcodes/buttons/config.php:10
+#: framework-customizations/extensions/shortcodes/shortcodes/carousel-mixitup/config.php:8
+#: framework-customizations/extensions/shortcodes/shortcodes/contact-info/config.php:10
+#: framework-customizations/extensions/shortcodes/shortcodes/demo-disabled/config.php:7
+#: framework-customizations/extensions/shortcodes/shortcodes/feature/config.php:8
+#: framework-customizations/extensions/shortcodes/shortcodes/funfacts/config.php:8
+#: framework-customizations/extensions/shortcodes/shortcodes/gmap/config.php:8
+#: framework-customizations/extensions/shortcodes/shortcodes/header/config.php:10
+#: framework-customizations/extensions/shortcodes/shortcodes/heading/config.php:10
+#: framework-customizations/extensions/shortcodes/shortcodes/latestblog/config.php:10
+#: framework-customizations/extensions/shortcodes/shortcodes/mycontactform/config.php:10
+#: framework-customizations/extensions/shortcodes/shortcodes/paragraph/config.php:10
+#: framework-customizations/extensions/shortcodes/shortcodes/pricing/config.php:10
+#: framework-customizations/extensions/shortcodes/shortcodes/sectiontitle/config.php:10
+#: framework-customizations/extensions/shortcodes/shortcodes/team-member/config.php:10
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonials/config.php:10
+#: framework-customizations/extensions/shortcodes/shortcodes/working-process/config.php:8
+msgid "Content Elements"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/accordions/options.php:10
+msgid "Accordion"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/accordions/options.php:11
+msgid "Add/Edit Tab"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/accordions/options.php:12
+msgid "Create your Accordion"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/accordions/options.php:17
+msgid "Accordion Title"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/accordions/options.php:20
+msgid "Accordion title Color"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/accordions/options.php:21
+msgid "Insert your accordion title color"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/accordions/options.php:29
+msgid "Insert your accordion content here."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/accordions/options.php:33
+msgid "Accordion Content Color"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/accordions/options.php:34
+msgid "Insert your accordion content color"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/buttons/config.php:9
+msgid "Add Button"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/buttons/options.php:9
+#: framework-customizations/extensions/shortcodes/shortcodes/header-image/options.php:109
+#: framework-customizations/extensions/shortcodes/shortcodes/media-image/options.php:10
+msgid "Choose Image"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/buttons/options.php:10
+msgid "add button image"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/buttons/options.php:15
+msgid "add button link"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/carousel-mixitup/config.php:6
+msgid "Screenshot Carousel"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/carousel-mixitup/config.php:7
+msgid "Add are Screenshot Carousel"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/carousel-mixitup/options.php:10
+msgid "Number of Blog"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/carousel-mixitup/options.php:13
+msgid "How many blog do you want to show?"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:5
+msgid "Responsive Media"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:6
+msgid "Select columon for responsiveness in tab device."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:9
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:29
+msgid "None"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:10
+msgid "Col-sm-1"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:11
+msgid "Col-sm-2"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:12
+msgid "Col-sm-3"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:13
+msgid "Col-sm-4"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:14
+msgid "Col-sm-5"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:15
+msgid "Col-sm-6"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:16
+msgid "Col-sm-7"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:17
+msgid "Col-sm-8"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:18
+msgid "Col-sm-9"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:19
+msgid "Col-sm-10"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:20
+msgid "Col-sm-11"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:21
+msgid "Col-sm-12"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:25
+msgid "Column Offset"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:26
+msgid "Select Column Offset."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:30
+msgid "Col-lg-Offset-1"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:31
+msgid "Col-lg-Offset-2"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:32
+msgid "Col-lg-Offset-3"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:33
+msgid "Col-lg-Offset-4"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:34
+msgid "Col-lg-Offset-5"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:35
+msgid "Col-md-Offset-1"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:36
+msgid "Col-md-Offset-2"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:37
+msgid "Col-md-Offset-3"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:38
+msgid "Col-md-Offset-4"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:39
+msgid "Col-md-Offset-5"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:40
+msgid "Col-sm-Offset-1"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:41
+msgid "Col-sm-Offset-2"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:42
+msgid "Col-sm-Offset-3"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:43
+msgid "Col-sm-Offset-4"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:44
+msgid "Col-sm-Offset-5"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:49
+msgid "Please select the background color. Default color is #fff."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:55
+msgid "Please select the text color. Default color is #ccc."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:60
+#: framework-customizations/extensions/shortcodes/shortcodes/sectiontitle/options.php:42
+msgid "Title Alignment"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:63
+#: framework-customizations/extensions/shortcodes/shortcodes/sectiontitle/options.php:45
+msgid "Select your section title & sub Title alignment."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:72
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:100
+msgid "Padding Top"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:73
+msgid ""
+"Insert your column padding top. Default Padding 0. Don't need to wirite px."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:77
+msgid "Padding Left"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:78
+msgid ""
+"Insert your column padding left. Default Padding 15px. Don't need to wirite "
+"px."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:82
+msgid "Padding Right"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:83
+msgid ""
+"Insert your column padding right. Default Padding 15px. Don't need to wirite "
+"px."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:88
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:105
+msgid "Padding Bottom"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:89
+msgid ""
+"Insert your column padding bottom. Default Padding 0. Don't need to wirite "
+"px."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:93
+msgid "Border Left"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:94
+msgid "Insert border left if you want. e.g. \"1px solid #fff\""
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:98
+msgid "Border Top"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:99
+msgid "Insert border top if you want. e.g. \"1px solid #fff\""
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:103
+msgid "Border Right"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:104
+msgid "Insert border right if you want. e.g. \"1px solid #fff\""
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:108
+msgid "Border Bottom"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:109
+msgid "Insert border bottom if you want. e.g. \"1px solid #fff\""
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:113
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:120
+msgid "Custom Class"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:114
+msgid "Insert class for custom css."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/contact-info/config.php:8
+msgid "Contact Info"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/contact-info/config.php:9
+msgid "Add diagonal contact info"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/contact-info/options.php:11
+msgid "Contact Title"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/contact-info/options.php:12
+msgid "Insert contact title here."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/contact-info/options.php:16
+msgid "Contact content"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/contact-info/options.php:17
+msgid "Insert contact desc here."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/contact-info/options.php:21
+msgid "Info Widget"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/contact-info/options.php:22
+msgid "Add/Edit Info Widget"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/contact-info/options.php:23
+msgid ""
+"Here you can add, remove and edit your Info Widgets. You can display 2, 3 or "
+"4 widget."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/contact-info/options.php:29
+#: framework-customizations/extensions/shortcodes/shortcodes/feature/options.php:22
+#: framework-customizations/extensions/shortcodes/shortcodes/funfacts/options.php:41
+#: framework-customizations/extensions/shortcodes/shortcodes/pricing/options.php:35
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php:22
+msgid "Choose an Icon"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/contact-info/options.php:33
+msgid "Widget Title"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/contact-info/options.php:34
+msgid "Insert widget title here."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/contact-info/options.php:38
+msgid "Widget Content"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/contact-info/options.php:41
+msgid "Insert your widget content."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/contact-info/options.php:47
+msgid "Social Info"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/contact-info/options.php:58
+msgid ""
+"Do you want to show contact social icon bellow contact form? If is it then "
+"please select \"Yes\"."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/contact-info/options.php:61
+#: framework-customizations/extensions/shortcodes/shortcodes/team-member/options.php:71
+msgid "Social Profile"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/contact-info/options.php:63
+#: framework-customizations/extensions/shortcodes/shortcodes/team-member/options.php:73
+msgid "Insert your necessary social profile name"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/contact-info/options.php:67
+#: framework-customizations/extensions/shortcodes/shortcodes/team-member/options.php:77
+msgid "Social Profile Name"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/contact-info/options.php:68
+#: framework-customizations/extensions/shortcodes/shortcodes/team-member/options.php:78
+msgid "Insert your profile name"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/contact-info/options.php:73
+#: framework-customizations/extensions/shortcodes/shortcodes/team-member/options.php:83
+msgid "Social Icons"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/contact-info/options.php:74
+#: framework-customizations/extensions/shortcodes/shortcodes/team-member/options.php:84
+msgid "Insert your Social icon."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/contact-info/options.php:79
+msgid "Social Icon Color"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/contact-info/options.php:80
+msgid "Insert your social icon color"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/contact-info/options.php:85
+#: framework-customizations/extensions/shortcodes/shortcodes/team-member/options.php:89
+msgid "Social Link"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/contact-info/options.php:86
+#: framework-customizations/extensions/shortcodes/shortcodes/team-member/options.php:90
+msgid "Insert your Social link."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/demo-disabled/config.php:5
+msgid "Demo Disabled"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/demo-disabled/config.php:6
+msgid "Demo of a shortcode that should be disabled"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/feature/config.php:6
+msgid "Awesome Features"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/feature/config.php:7
+msgid "Add Singel Awesome Features"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/feature/options.php:9
+msgid "Feature Image"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/feature/options.php:10
+msgid "Please chose feature image"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/feature/options.php:14
+msgid "Feature Items"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/feature/options.php:15
+msgid "Add/Edit Feature Item"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/feature/options.php:16
+#: framework-customizations/extensions/shortcodes/shortcodes/working-process/options.php:11
+msgid "Here you can add, remove and edit your working items."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/feature/options.php:26
+msgid "Icon Gradient"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/feature/options.php:32
+msgid "Insert your icon gradient color."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/feature/options.php:37
+#: framework-customizations/extensions/shortcodes/shortcodes/funfacts/options.php:57
+#: framework-customizations/extensions/shortcodes/shortcodes/mycontactform/options.php:8
+#: framework-customizations/extensions/shortcodes/shortcodes/working-process/options.php:27
+msgid "Title"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/feature/options.php:41
+#: framework-customizations/extensions/shortcodes/shortcodes/working-process/options.php:33
+msgid "Insert your title color. Default color is #000."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/feature/options.php:46
+#: framework-customizations/extensions/shortcodes/shortcodes/header/options.php:18
+#: framework-customizations/extensions/shortcodes/shortcodes/heading/options.php:13
+#: framework-customizations/extensions/shortcodes/shortcodes/sectiontitle/options.php:20
+#: framework-customizations/extensions/shortcodes/shortcodes/sectiontitle/options.php:64
+#: framework-customizations/extensions/shortcodes/shortcodes/working-process/options.php:38
+msgid "Font Size"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/feature/options.php:47
+msgid ""
+"Insert your title font size. Default font size 24px. Don't need to insert "
+"\"px\"."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/feature/options.php:52
+#: framework-customizations/extensions/shortcodes/shortcodes/funfacts/options.php:72
+#: framework-customizations/extensions/shortcodes/shortcodes/mycontactform/options.php:23
+msgid "Title Font Weight"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/feature/options.php:55
+#: framework-customizations/extensions/shortcodes/shortcodes/mycontactform/options.php:26
+msgid "Select your title font weight."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/feature/options.php:66
+msgid "Enter the desired content"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/feature/options.php:70
+#: framework-customizations/extensions/shortcodes/shortcodes/funfacts/options.php:100
+#: framework-customizations/extensions/shortcodes/shortcodes/working-process/options.php:55
+msgid "Content Color"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/feature/options.php:71
+#: framework-customizations/extensions/shortcodes/shortcodes/funfacts/options.php:101
+#: framework-customizations/extensions/shortcodes/shortcodes/working-process/options.php:56
+msgid "Insert your content color. Default color is #000."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/feature/options.php:76
+#: framework-customizations/extensions/shortcodes/shortcodes/working-process/options.php:49
+msgid "Content Font Size"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/feature/options.php:77
+msgid ""
+"Insert your content font size. Default font size 14px. Don't need to insert "
+"\"px\"."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/feature/options.php:82
+#: framework-customizations/extensions/shortcodes/shortcodes/media-image/options.php:14
+msgid "Alignment"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/feature/options.php:85
+msgid "Select your feature box text aliginment"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/feature/options.php:94
+#: framework-customizations/extensions/shortcodes/shortcodes/funfacts/options.php:118
+#: framework-customizations/extensions/shortcodes/shortcodes/header/options.php:106
+#: framework-customizations/extensions/shortcodes/shortcodes/heading/options.php:59
+#: framework-customizations/extensions/shortcodes/shortcodes/media-image/options.php:29
+#: framework-customizations/extensions/shortcodes/shortcodes/myvideo/options.php:84
+#: framework-customizations/extensions/shortcodes/shortcodes/paragraph/options.php:59
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:110
+#: framework-customizations/extensions/shortcodes/shortcodes/working-process/options.php:62
+msgid "Margin Top"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/feature/options.php:95
+#: framework-customizations/extensions/shortcodes/shortcodes/funfacts/options.php:119
+#: framework-customizations/extensions/shortcodes/shortcodes/working-process/options.php:63
+msgid "Do you need margin in top. Please insert a number. Default margin 0."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/feature/options.php:99
+#: framework-customizations/extensions/shortcodes/shortcodes/funfacts/options.php:123
+#: framework-customizations/extensions/shortcodes/shortcodes/header/options.php:111
+#: framework-customizations/extensions/shortcodes/shortcodes/heading/options.php:64
+#: framework-customizations/extensions/shortcodes/shortcodes/myvideo/options.php:89
+#: framework-customizations/extensions/shortcodes/shortcodes/paragraph/options.php:64
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:115
+#: framework-customizations/extensions/shortcodes/shortcodes/sectiontitle/options.php:38
+#: framework-customizations/extensions/shortcodes/shortcodes/sectiontitle/options.php:71
+#: framework-customizations/extensions/shortcodes/shortcodes/working-process/options.php:67
+msgid "Margin Bottom"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/feature/options.php:100
+msgid ""
+"Do you need margin in Bottom. Please insert a number. Default margin 40px."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/funfacts/config.php:6
+msgid "Overview Item"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/funfacts/config.php:7
+msgid "Add your Overview Item"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/funfacts/options.php:14
+msgid "Icon/Image"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/funfacts/options.php:18
+#: framework-customizations/extensions/shortcodes/shortcodes/header/options.php:97
+#: framework-customizations/extensions/shortcodes/shortcodes/header-image/options.php:100
+#: framework-customizations/extensions/shortcodes/shortcodes/header-video/options.php:101
+#: framework-customizations/extensions/shortcodes/shortcodes/media-image/config.php:6
+#: framework-customizations/extensions/shortcodes/shortcodes/slider/options.php:97
+#: framework-customizations/extensions/shortcodes/shortcodes/slider/options.php:118
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php:16
+msgid "Image"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/funfacts/options.php:22
+msgid "Icon"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/funfacts/options.php:25
+msgid "Please select your desiger element image or icon?"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/funfacts/options.php:31
+msgid "Overview Image"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/funfacts/options.php:32
+msgid "Upload your overview image with 40x64 resulation."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/funfacts/options.php:45
+msgid "Icon Color"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/funfacts/options.php:46
+msgid "Insert your icon color. Default color is #4776e6."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/funfacts/options.php:61
+#: framework-customizations/extensions/shortcodes/shortcodes/mycontactform/options.php:18
+msgid "Insert your title color. Default color is #fff."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/funfacts/options.php:67
+msgid ""
+"Insert your title Font size. Default font size 18px. Don't need to insert "
+"\"px\"."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/funfacts/options.php:75
+msgid "Select your amount font weight."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/funfacts/options.php:84
+msgid "Title Align"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/funfacts/options.php:87
+msgid "Select your Title alignment."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/funfacts/options.php:97
+#: framework-customizations/extensions/shortcodes/shortcodes/working-process/options.php:46
+msgid "Enter the usefull content"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/funfacts/options.php:106
+msgid "Content Align"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/funfacts/options.php:109
+msgid "Select your Content alignment."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/funfacts/options.php:124
+msgid ""
+"Do you need margin in Bottom. Please insert a number. Default margin 60px."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/gmap/config.php:6
+msgid "Google Map"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/gmap/config.php:7
+msgid "Add Google Map"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/gmap/options.php:9
+msgid "Location Latitude"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/gmap/options.php:10
+msgid "Insert your location latifude."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/gmap/options.php:14
+msgid "Location Longitude"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/gmap/options.php:15
+msgid "Insert your location longitude"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/gmap/options.php:19
+msgid "Map Marker"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/gmap/options.php:20
+msgid "Upload your map marker. Map marker shold be smallar image."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/gmap/options.php:24
+msgid "Map Height"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/gmap/options.php:25
+msgid ""
+"Insert your map height. Default height is 450px. Don't need to insert \"px\"."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header/config.php:8
+msgid "Hero Section"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header/config.php:9
+msgid "Add your Hero Section."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header/options.php:8
+#: framework-customizations/extensions/shortcodes/shortcodes/header-image/options.php:12
+#: framework-customizations/extensions/shortcodes/shortcodes/header-video/options.php:13
+#: framework-customizations/extensions/shortcodes/shortcodes/slider/options.php:9
+msgid "Is Horizontal"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header/options.php:13
+msgid "Header Title"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header/options.php:14
+#: framework-customizations/extensions/shortcodes/shortcodes/slider/options.php:15
+msgid "Insert your header text."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header/options.php:19
+msgid ""
+"Default font size is 60px. Insert just numeric value. Don't need to insert "
+"\"px\"."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header/options.php:22
+msgid "Header Color"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header/options.php:23
+msgid "Insert your Heading color. Default color is #fff."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header/options.php:29
+#: framework-customizations/extensions/shortcodes/shortcodes/heading/options.php:34
+msgid "Font Weight"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header/options.php:32
+#: framework-customizations/extensions/shortcodes/shortcodes/heading/options.php:37
+msgid "Select your heading font weight."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header/options.php:42
+msgid "Header Sub Title"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header/options.php:43
+msgid "Insert your header sub title text."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header/options.php:47
+msgid "Sub Font Size"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header/options.php:48
+msgid ""
+"Default Sub font size is 18px. Insert just numeric value. Don't need to "
+"insert \"px\"."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header/options.php:51
+msgid "Header Sub Color"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header/options.php:52
+msgid "Insert your heading sub color. Default color is #fff."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header/options.php:65
+#: framework-customizations/extensions/shortcodes/shortcodes/header-image/options.php:68
+#: framework-customizations/extensions/shortcodes/shortcodes/header-video/options.php:69
+#: framework-customizations/extensions/shortcodes/shortcodes/slider/options.php:65
+msgid "Insert your button label title"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header/options.php:71
+#: framework-customizations/extensions/shortcodes/shortcodes/header-image/options.php:74
+#: framework-customizations/extensions/shortcodes/shortcodes/header-video/options.php:75
+#: framework-customizations/extensions/shortcodes/shortcodes/slider/options.php:71
+msgid "Insert your button label text"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header/options.php:77
+#: framework-customizations/extensions/shortcodes/shortcodes/header-image/options.php:80
+#: framework-customizations/extensions/shortcodes/shortcodes/header-video/options.php:81
+#: framework-customizations/extensions/shortcodes/shortcodes/slider/options.php:77
+msgid "Please insert your desiget link"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header/options.php:84
+msgid "Header Side Image"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header/options.php:91
+#: framework-customizations/extensions/shortcodes/shortcodes/header-image/options.php:94
+#: framework-customizations/extensions/shortcodes/shortcodes/header-video/options.php:95
+#: framework-customizations/extensions/shortcodes/shortcodes/slider/options.php:91
+#: framework-customizations/extensions/shortcodes/shortcodes/slider/options.php:112
+msgid "Image Title"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header/options.php:92
+#: framework-customizations/extensions/shortcodes/shortcodes/header-image/options.php:95
+#: framework-customizations/extensions/shortcodes/shortcodes/header-video/options.php:96
+#: framework-customizations/extensions/shortcodes/shortcodes/slider/options.php:92
+msgid "Insert your button image title"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header/options.php:98
+msgid "Insert your header right side image"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header/options.php:107
+#: framework-customizations/extensions/shortcodes/shortcodes/heading/options.php:60
+#: framework-customizations/extensions/shortcodes/shortcodes/paragraph/options.php:60
+msgid ""
+"Default Margin Top is 0px. Insert just numeric value. Don't need to insert "
+"\"px\"."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header/options.php:112
+#: framework-customizations/extensions/shortcodes/shortcodes/heading/options.php:65
+#: framework-customizations/extensions/shortcodes/shortcodes/paragraph/options.php:65
+msgid ""
+"Default margin bottom is 0px. Insert just numeric value. Don't need to "
+"insert \"px\"."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header-image/config.php:6
+msgid "Header Image"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header-image/config.php:7
+msgid "Add an Header Image"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header-image/config.php:8
+#: framework-customizations/extensions/shortcodes/shortcodes/header-video/config.php:10
+#: framework-customizations/extensions/shortcodes/shortcodes/media-image/config.php:8
+#: framework-customizations/extensions/shortcodes/shortcodes/myvideo/config.php:10
+#: framework-customizations/extensions/shortcodes/shortcodes/slider/config.php:13
+msgid "Media Elements"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header-image/options.php:17
+msgid "Image Header Title"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header-image/options.php:18
+msgid "Insert your Image header text."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header-image/options.php:22
+msgid "Image Font Size"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header-image/options.php:23
+msgid ""
+"Default Image font size is 60px. Insert just numeric value. Don't need to "
+"insert \"px\"."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header-image/options.php:26
+msgid "Image Text Color"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header-image/options.php:27
+#: framework-customizations/extensions/shortcodes/shortcodes/slider/options.php:24
+msgid "Insert your slider text color. Default color is #fff."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header-image/options.php:32
+msgid "Image Font Weight"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header-image/options.php:35
+msgid "Select your Image font weight."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header-image/options.php:45
+msgid "Image Sub Title"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header-image/options.php:46
+msgid "Insert your Image sub title text."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header-image/options.php:50
+msgid "Image Sub Font Size"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header-image/options.php:51
+msgid ""
+"Default image sub font size is 18px. Insert just numeric value. Don't need "
+"to insert \"px\"."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header-image/options.php:54
+msgid "Image Sub Color"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header-image/options.php:55
+msgid "Insert your Image sub color. Default color is #fff."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header-image/options.php:60
+msgid "Image Buttons"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header-image/options.php:61
+msgid "Add/Edit image Buttons"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header-image/options.php:62
+msgid "Here you can add, remove and edit your image."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header-image/options.php:87
+msgid "Image front Side Image"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header-image/options.php:88
+#: framework-customizations/extensions/shortcodes/shortcodes/slider/options.php:106
+msgid "Add/Edit Image"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header-image/options.php:89
+msgid "Here you can add, remove and edit your image side image."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header-image/options.php:101
+#: framework-customizations/extensions/shortcodes/shortcodes/header-video/options.php:102
+#: framework-customizations/extensions/shortcodes/shortcodes/slider/options.php:98
+#: framework-customizations/extensions/shortcodes/shortcodes/slider/options.php:119
+msgid "Insert your slider header right side image"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header-image/options.php:110
+msgid ""
+"Insert upload a new, or choose an existing image from your media library."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header-video/config.php:8
+msgid "Header Video"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header-video/config.php:9
+msgid "Add your Header video."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header-video/options.php:18
+msgid "Video Header Title"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header-video/options.php:19
+msgid "Insert your Video header text."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header-video/options.php:23
+#: framework-customizations/extensions/shortcodes/shortcodes/myvideo/options.php:48
+msgid "Video Font Size"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header-video/options.php:24
+msgid ""
+"Default Video font size is 60px. Insert just numeric value. Don't need to "
+"insert \"px\"."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header-video/options.php:27
+msgid "Video Text Color"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header-video/options.php:28
+msgid "Insert your video text color. Default color is #fff."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header-video/options.php:33
+msgid "Video Font Weight"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header-video/options.php:36
+msgid "Select your Video font weight."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header-video/options.php:46
+#: framework-customizations/extensions/shortcodes/shortcodes/myvideo/options.php:67
+msgid "Video Sub Title"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header-video/options.php:47
+msgid "Insert your video sub title text."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header-video/options.php:51
+msgid "Video Sub Font Size"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header-video/options.php:52
+msgid ""
+"Default video Sub font size is 18px. Insert just numeric value. Don't need "
+"to insert \"px\"."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header-video/options.php:55
+msgid "Video Sub Color"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header-video/options.php:56
+msgid "Insert your video sub color. Default color is #fff."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header-video/options.php:61
+msgid "Video Buttons"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header-video/options.php:62
+msgid "Add/Edit Video"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header-video/options.php:63
+msgid "Here you can add, remove and edit your video Buttons."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header-video/options.php:88
+msgid "Slider front video image"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header-video/options.php:90
+msgid "Here you can add, remove and edit your video side image."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header-video/options.php:110
+#: framework-customizations/extensions/shortcodes/shortcodes/myvideo/options.php:15
+msgid "Video SRC"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/header-video/options.php:111
+#: framework-customizations/extensions/shortcodes/shortcodes/myvideo/options.php:16
+msgid "Insert video src."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/heading/config.php:9
+msgid "Add your heading."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/heading/options.php:8
+msgid "Your Heading"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/heading/options.php:9
+msgid "Insert your heading text."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/heading/options.php:14
+msgid ""
+"Default font size is 24px. Insert just numeric value. Don't need to insert "
+"\"px\"."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/heading/options.php:17
+msgid "Heading Color"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/heading/options.php:18
+#: framework-customizations/extensions/shortcodes/shortcodes/paragraph/options.php:18
+msgid "Insert your Heading color. Default color is #303030."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/heading/options.php:23
+msgid "Heading Alignment"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/heading/options.php:26
+msgid "Select your heading alignment."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/heading/options.php:46
+#: framework-customizations/extensions/shortcodes/shortcodes/paragraph/options.php:46
+msgid "Text Transform"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/heading/options.php:49
+msgid "Select your heading text transform."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/latestblog/config.php:8
+msgid "Latest Blog"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/latestblog/config.php:9
+msgid "Show your latest blog."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/latestblog/options.php:9
+msgid "Number of item"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/latestblog/options.php:12
+msgid "How many item you want to show?"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/latestblog/options.php:15
+msgid "Read More"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/latestblog/options.php:17
+msgid "Insert your read more text."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/latestblog/options.php:21
+msgid "Read More Text Color"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/latestblog/options.php:22
+msgid "Insert your read more text color. Default color is #8e54e9."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/latestblog/options.php:27
+msgid "Blog Button"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/latestblog/options.php:29
+msgid "Insert your blog button label."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/latestblog/options.php:33
+msgid "Button Text Color"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/latestblog/options.php:34
+msgid "Insert your button label text color. Default color is #8e54e9."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/latestblog/options.php:39
+msgid "Button Label Bg Color"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/latestblog/options.php:40
+msgid "Insert your button label bg color. Default color is #8e54e9."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/latestblog/options.php:45
+msgid "Button Label Bg Gradient"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/latestblog/options.php:51
+msgid "Please select your button label backgound gradient color"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/latestblog/options.php:56
+msgid "Insert your blog button link."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/media-image/config.php:7
+msgid "Add an Image"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/media-image/options.php:11
+msgid ""
+"Either upload a new, or choose an existing image from your media library."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/media-image/options.php:17
+msgid "Select your image title alignment."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/media-image/options.php:30
+msgid "Set image margin top."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/media-image/options.php:35
+msgid "Margin Botton"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/media-image/options.php:36
+msgid "Set image margin bottom"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/media-image/options.php:46
+msgid "Width"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/media-image/options.php:47
+msgid "Set image width"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/media-image/options.php:52
+#: framework-customizations/extensions/shortcodes/shortcodes/myvideo/options.php:10
+msgid "Height"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/media-image/options.php:53
+msgid "Set image height"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/mycontactform/config.php:8
+msgid "Contact Form"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/mycontactform/config.php:9
+msgid "Add contact Form."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/mycontactform/options.php:9
+msgid "Insert your contact title"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/mycontactform/options.php:14
+msgid ""
+"Default title font size is 18px. Insert just numeric value. Don't need to "
+"insert \"px\"."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/mycontactform/options.php:36
+msgid "Title Line Height"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/mycontactform/options.php:37
+msgid ""
+"Default title line height is 0.8px. Insert just numeric value. Don't need to "
+"insert \"px\"."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/mycontactform/options.php:40
+msgid "Shortcode"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/mycontactform/options.php:42
+msgid "Insert your custom contact form shortcode."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/myvideo/config.php:8
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:21
+msgid "Video Section"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/myvideo/config.php:9
+msgid "Add your section video."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/myvideo/options.php:11
+msgid ""
+"Insert video height. Don't need to inser \"PX\". Default height trangle:940 "
+"and horizontal:768 of px."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/myvideo/options.php:20
+msgid "Choose a video Icon"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/myvideo/options.php:24
+msgid "Video Icon Font Size"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/myvideo/options.php:25
+msgid ""
+"Insert your video icon font size. Default font size 36px. Don't need to "
+"insert \"px\"."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/myvideo/options.php:30
+msgid "Video Icon border"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/myvideo/options.php:31
+msgid "Insert your video icon border size, Default 2px solid #fff"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/myvideo/options.php:36
+msgid "Video Icon Color"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/myvideo/options.php:37
+msgid "Insert your icon color. Default color is #fff."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/myvideo/options.php:44
+msgid "Video Title"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/myvideo/options.php:45
+msgid "Insert your video title here."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/myvideo/options.php:49
+msgid ""
+"Insert your video title font size. Default font size 48px. Don't need to "
+"insert \"px\"."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/myvideo/options.php:54
+msgid "Vidoe Title Color"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/myvideo/options.php:55
+msgid "Insert your video title color. Default color is #fff."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/myvideo/options.php:60
+msgid "Video Title Line Height"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/myvideo/options.php:61
+msgid "Insert your video Line Height. Default line height 500"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/myvideo/options.php:68
+msgid "Insert your video sub title here."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/myvideo/options.php:71
+msgid "Video Sub Title Font Size"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/myvideo/options.php:72
+msgid ""
+"Insert your video sub title font size. Default font size 18px. Don't need to "
+"insert \"px\"."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/myvideo/options.php:77
+msgid "Vidoe Sub Title Color"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/myvideo/options.php:78
+msgid "Insert your video Sub title color. Default color is #fff."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/myvideo/options.php:85
+msgid ""
+"Insert video Margin top. Don't need to inser \"PX\". Default margin top is "
+"0px."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/myvideo/options.php:90
+msgid ""
+"Insert video Margin bottom. Don't need to inser \"PX\". Default margin "
+"bottom is 0px."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/paragraph/config.php:8
+#: framework-customizations/extensions/shortcodes/shortcodes/paragraph/options.php:8
+msgid "Paragraph"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/paragraph/config.php:9
+msgid "Add your paragraph."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/paragraph/options.php:9
+msgid "Enter paragraph text."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/paragraph/options.php:13
+msgid "Paragraph Font Size"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/paragraph/options.php:14
+msgid ""
+"Default font size is 20px. Insert just numeric value. Don't need to insert "
+"\"px\"."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/paragraph/options.php:17
+msgid "Paragraph Color"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/paragraph/options.php:23
+msgid "Paragraph Alignment"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/paragraph/options.php:26
+msgid "Select your paragraph alignment."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/paragraph/options.php:34
+msgid "Paragraph Font Weight"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/paragraph/options.php:37
+msgid "Select paragraph font weight."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/paragraph/options.php:49
+msgid "Select paragraph text transform."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pricing/config.php:8
+msgid "Pricing"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pricing/config.php:9
+msgid "Set your pricing table."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pricing/options.php:9
+msgid "Is Best Value"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pricing/options.php:20
+msgid ""
+"Do you want to make this table Best value? If is it then please select "
+"\"Yes\"."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pricing/options.php:23
+msgid "Plan Name"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pricing/options.php:25
+msgid "Insert your plan name."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pricing/options.php:28
+msgid "plan Font Color"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pricing/options.php:29
+msgid "Insert your plan font color. Default color is #8e54e9."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pricing/options.php:39
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php:26
+msgid "Icon Font Color"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pricing/options.php:40
+msgid "Insert your icon font color. Default color is #8e54e9."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pricing/options.php:45
+msgid "Currency"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pricing/options.php:47
+msgid "Insert your currency."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pricing/options.php:50
+msgid "Price"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pricing/options.php:52
+msgid "Insert your Price amount."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pricing/options.php:55
+msgid "Price Font Color"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pricing/options.php:56
+msgid "Insert your price font color. Default color is #8e54e9."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pricing/options.php:61
+msgid "Price Period"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pricing/options.php:63
+msgid "Insert your Price period."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pricing/options.php:66
+msgid "Table List Item"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pricing/options.php:67
+msgid "Add/Edit List Item"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pricing/options.php:68
+msgid "Here you can add, remove and edit your price table list item."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pricing/options.php:73
+msgid "List Item"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pricing/options.php:74
+msgid "Enter list item text here"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pricing/options.php:81
+msgid "Choose Plan"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pricing/options.php:83
+msgid "Insert your Price button label."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pricing/options.php:87
+msgid "Label Text Color"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pricing/options.php:88
+msgid "Insert your label text color. Default color is #8e54e9."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pricing/options.php:93
+msgid "Label Bg Color"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pricing/options.php:94
+msgid "Insert your label bg color. Default color is #8e54e9."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pricing/options.php:99
+msgid "Label Bg Gradient"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pricing/options.php:105
+msgid "Please select your label backgound gradient color"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pricing/options.php:110
+msgid "Insert your Price button link."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/config.php:5
+#: framework-customizations/extensions/shortcodes/shortcodes/column/includes/page-builder-column-item/class-page-builder-column-item.php:97
+#: framework-customizations/extensions/shortcodes/shortcodes/section/includes/page-builder-section-item/class-page-builder-section-item.php:22
+msgid "Layout Elements"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/config.php:6
+#: framework-customizations/extensions/shortcodes/shortcodes/section/includes/page-builder-section-item/class-page-builder-section-item.php:23
+msgid "Section"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/config.php:7
+msgid "Add a Section"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:13
+msgid "Section Template"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:16
+msgid "Default"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:17
+msgid "Overview Section"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:18
+msgid "Step Work Section"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:19
+msgid "Features Section"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:20
+msgid "Screenshots Section"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:22
+msgid "Testimonial Section"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:23
+msgid "Team Section"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:24
+msgid "Pricing Section"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:25
+msgid "Faq Section"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:26
+msgid "Blog Section"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:27
+msgid "Get App Section"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:28
+msgid "Contact Section"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:30
+msgid "Select template for this section"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:36
+msgid "Section horizontal"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:41
+msgid "Background Gradient"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:47
+msgid ""
+"Select background gradient colors if you want to use gradient colors on "
+"background."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:50
+msgid "Background Solid Color"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:51
+msgid "Select background color if you want to use single color on background."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:56
+msgid "Background Image"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:57
+msgid "Select background image if you want to use image on background"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:61
+msgid "Background Repeat (For Image Background)"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:64
+msgid "Select if you want to repeat background image."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:71
+msgid "Background Size"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:74
+msgid "Select Background size."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:82
+msgid "Background Position"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:85
+msgid "Select Background Position."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:101
+msgid "Don't include \"px\" in your string. e.g \"100\""
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:106
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:111
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:116
+msgid "No need to include \"px\" in your string. e.g \"100\""
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:121
+msgid "Insert custom class name for extra css if you need."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:125
+msgid "Custom ID"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:126
+msgid "Insert custom ID name for extra css if you need."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/sectiontitle/config.php:8
+msgid "Section Title"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/sectiontitle/config.php:9
+msgid "Add your section title."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/sectiontitle/options.php:10
+msgid "Section Title Text"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/sectiontitle/options.php:11
+msgid "Insert your section title text here."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/sectiontitle/options.php:15
+msgid "Insert your section title color. Default color is #000."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/sectiontitle/options.php:21
+msgid ""
+"Insert your section title Font size. Default font size 46px. Don't need to "
+"insert \"px\"."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/sectiontitle/options.php:26
+msgid "Line Height"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/sectiontitle/options.php:27
+msgid ""
+"Insert your section Line Height. Default font size 36px. Don't need to "
+"insert \"px\". "
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/sectiontitle/options.php:32
+msgid "Horizontal Image"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/sectiontitle/options.php:33
+msgid ""
+"Please chose horizontal image, which is replace under section title image"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/sectiontitle/options.php:39
+msgid ""
+"Default margin bottom is 58px. Insert just numeric value. Don't need to "
+"insert \"px\"."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/sectiontitle/options.php:54
+msgid "Sub Title"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/sectiontitle/options.php:55
+msgid "Insert your section Sub title text here."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/sectiontitle/options.php:58
+msgid "Sub Title Color"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/sectiontitle/options.php:59
+msgid "Insert your section sub title color. Default color is #b89841."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/sectiontitle/options.php:65
+msgid ""
+"Insert your section sub title Font size. Default font size 16px. Don't need "
+"to insert \"px\"."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/sectiontitle/options.php:72
+msgid ""
+"Insert section sub title margin bottom. Default margin bottom is 30px. Don't "
+"need to insert \"px\"."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/slider/config.php:11
+msgid "Header Slider"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/slider/config.php:12
+msgid "Add an Slider"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/slider/options.php:14
+msgid "Slider Header Title"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/slider/options.php:19
+msgid "Slider Font Size"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/slider/options.php:20
+msgid ""
+"Default Slider font size is 60px. Insert just numeric value. Don't need to "
+"insert \"px\"."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/slider/options.php:23
+msgid "Slider Text Color"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/slider/options.php:29
+msgid "Slider Font Weight"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/slider/options.php:32
+msgid "Select your slider font weight."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/slider/options.php:42
+msgid "Slider Sub Title"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/slider/options.php:43
+msgid "Insert your slider sub title text."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/slider/options.php:47
+msgid "Slider Sub Font Size"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/slider/options.php:48
+msgid ""
+"Default slider Sub font size is 18px. Insert just numeric value. Don't need "
+"to insert \"px\"."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/slider/options.php:51
+msgid "Slider Sub Color"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/slider/options.php:52
+msgid "Insert your slider sub color. Default color is #fff."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/slider/options.php:57
+msgid "Slider Buttons"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/slider/options.php:59
+msgid "Here you can add, remove and edit your slider Buttons."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/slider/options.php:84
+msgid "Slider front Side Image"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/slider/options.php:86
+msgid "Here you can add, remove and edit your Slide side image."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/slider/options.php:105
+msgid "Slider background Image"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/slider/options.php:107
+msgid "Here you can add, remove and edit your Slider image."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/slider/options.php:113
+msgid "Insert your slider image title"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/slider/options.php:124
+msgid "Slider animation"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/slider/options.php:125
+msgid "Insert your slider animation, Example 1,6,12,18"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/team-member/config.php:8
+msgid "Team Member"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/team-member/config.php:9
+msgid "Add a Team Member"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/team-member/options.php:9
+msgid "Team Members"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/team-member/options.php:10
+msgid "Add/Edit Team Members"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/team-member/options.php:11
+msgid "Here you can add, remove and edit your Team Members."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/team-member/options.php:16
+msgid "Member Image"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/team-member/options.php:17
+msgid ""
+"Either upload a new, or choose an existing image from your media library"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/team-member/options.php:21
+msgid "Member Name"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/team-member/options.php:22
+msgid "Name of the person"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/team-member/options.php:27
+msgid "Name Font Size"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/team-member/options.php:28
+msgid ""
+"Insert your name font size. Default font size 18px. Don't need to insert "
+"\"px\"."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/team-member/options.php:33
+msgid "Name Text Color"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/team-member/options.php:34
+msgid "Insert your name text color. Default color is #606060."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/team-member/options.php:39
+msgid "Job Title"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/team-member/options.php:40
+msgid "Job title of the person."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/team-member/options.php:45
+msgid "Job Font Size"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/team-member/options.php:46
+msgid ""
+"Insert your job font size. Default font size 14px. Don't need to insert "
+"\"px\"."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/team-member/options.php:51
+msgid "Job Text Color"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/team-member/options.php:52
+msgid "Insert your job text color. Default color is #606060."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/team-member/options.php:57
+msgid "Social On/Off"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/team-member/options.php:68
+msgid "If you want to show your social link, please select yes"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonials/config.php:8
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php:9
+msgid "Testimonials"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonials/config.php:9
+msgid "Add some Testimonials"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php:10
+msgid "Add/Edit Testimonial"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php:11
+msgid "Here you can add, remove and edit your Testimonials."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php:17
+msgid "Upload Image."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php:27
+msgid "Insert your icon font color. Default color is #4776e6."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php:33
+msgid "Enter the testimonial content here"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php:38
+msgid "content Font Color"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php:39
+msgid "Insert your content font color. Default color is #666666."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php:44
+msgid "Client Name"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php:45
+msgid "Enter the Name of the Person who is write content"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php:49
+msgid "Author Font Size"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php:50
+msgid ""
+"Insert your author name font size. Default font size 14px. Don't need to "
+"insert \"px\"."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php:55
+msgid "Client Font Color"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php:56
+msgid "Insert your author font color. Default color is #666666."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/working-process/config.php:6
+msgid "How It Works"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/working-process/config.php:7
+msgid "Add your how it works"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/working-process/options.php:9
+msgid "Working Level"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/working-process/options.php:10
+msgid "Add/Edit Funfacts"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/working-process/options.php:16
+msgid "Work Image"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/working-process/options.php:17
+msgid "Please chose work image"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/working-process/options.php:22
+msgid "Count Number"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/working-process/options.php:23
+msgid "Enter Count Number"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/working-process/options.php:28
+msgid "Insert your desire title"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/working-process/options.php:39
+msgid ""
+"Insert your title Font size. Default font size 24px. Don't need to insert "
+"\"px\"."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/working-process/options.php:50
+msgid ""
+"Insert your content Font size. Default font size 14px. Don't need to insert "
+"\"px\"."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/working-process/options.php:68
+msgid ""
+"Do you need margin in Bottom. Please insert a number. Default margin 0px."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/carousel-mixitup/views/view.php:28
+msgid "All"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/pricing/views/view.php:97
+msgid "/ "
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/includes/page-builder-column-item/class-page-builder-column-item.php:100
+#, php-format
+msgid "Add a %s column"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/includes/page-builder-section-item/class-page-builder-section-item.php:24
+msgid "Creates a section"
+msgstr ""
+
+#. Description of the theme
+msgid "App Landing Page with blog"
+msgstr ""
+
+#. URI of the theme
+msgid "http://droitthemes.com/wp/faded/"
+msgstr ""
+
+#. Author of the theme
+msgid "droitthemes"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://themeforest.net/user/droitthemes"
+msgstr ""

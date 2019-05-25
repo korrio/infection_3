@@ -1,0 +1,277 @@
+/*
+Theme Name: faded
+Description: Adds support for languages written in a Right To Left (RTL) direction.
+It's easy, just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+See: https://codex.wordpress.org/Right_to_Left_Language_Support
+*/
+
+/**
+ * Table of Contents:
+ *
+ * 1.0 - body
+ * 2.0 - Header
+ * 3.0 - Header Single
+ * 4.0 - Button
+ * 5.0 - Download
+ * 6.0 - faq
+ * 7.0 - Pricing
+ * 8.0 - Testimonial
+ * 9.0 - Blog
+ * 10.0 - Contact
+ * 11.0 - Media Queries
+ *    11.1 - >= 768px
+ *    11.2 - >= 992px
+ *    11.3 - >= 1200px
+ *    11.4 - >= 1921px
+ *    11.5 - >= 767px
+ *    11.6 - >= 480px
+ */
+
+
+/**
+ * 1.0 - body
+ */
+
+body {
+    direction: rtl;
+    unicode-bidi: embed;
+}
+/*
+    * 2.0  Header
+*/
+.navbar-brand {
+    float: right;
+}
+.navbar-right:last-child {
+    margin-left: -15px;
+    margin-right: auto;
+    padding: 0px;
+}
+.navbar-nav > li {
+    float: right;
+}
+header a:last-child,.slider-caption .col-header-txt a:last-child{
+    margin-left: 27%;
+    margin-right: 30px;
+}
+header::after,.vertical:after,header.header-home::after{
+    right: -50px;
+}
+header.blog-list .breadcrumb span + span::before, header.blog-detail .breadcrumb span + span::before {
+    left: auto;
+    right: -11px;
+}
+header.blog-list .breadcrumb span + span, header.blog-detail .breadcrumb span + span {
+    margin-right: 17px;
+    margin-left: 0px!important;
+}
+header p,header h1{
+    text-align: right;
+}
+.blog header h1, .blog-detail h1.sec-title{
+    text-align: left;
+}
+.slider-caption .col-header-txt,.slider-caption .col-header-txt h1,.slider-caption .col-header-txt p{
+    text-align: right;
+}
+.sec-get-app a + a {
+    margin-right: 15px;
+    margin-left: 0px;
+}
+.defatult_section header::after{
+    top: calc(125%)!important;
+}
+/*
+   * 3.0 header single
+*/
+header::after {
+    top: calc(160%);
+}
+
+/*
+    * 4.0 Button
+*/
+nav .btn-getnow{
+    float: left;
+}
+/*
+    * 5.0 Download
+*/
+#get-app .fw-col-md-7.col-sm-7{
+    float: left;
+}
+/*
+    *6.0 faq
+*/
+.sec-faq{
+    text-align: right;
+}
+.sec-faq .hr {
+    background-position: center right;
+}
+.sec-faq .row .faq-inner .panel-group .panel .panel-heading .panel-title .btn-accordion{
+    text-align: left;
+}
+#faq .col-sm-7,#faq .fw-col-md-5.col-sm-5{
+    float: left;
+} 
+.sec-faq .panel-group .panel .panel-heading .panel-title .btn-accordion {
+    text-align: left!important;
+}
+.sec-get-app img.get-app-mockup {
+    float: left;
+    max-width: inherit;
+}
+/*
+    * 7.0 Prcing
+*/
+.sec-pricing [class^="col-"] span.curency,.sec-pricing .highlighted [class^="col-"] span.curency{
+    left: 65%!important;
+    top: 40.5%!important;
+}
+.sec-pricing [class^="col-"] span.price_mon,.sec-pricing .highlighted [class^="col-"] span.price_mon{
+    left: 20%!important;
+    top: 41.5%!important;
+}
+/*
+    *8.0 Testimonial
+*/
+.sec-testimonial .media .media-left{
+    padding-left: 0px;
+}
+.sec-testimonial .media .media-body{
+    text-align: right;
+    padding-right: 25px;
+}
+/*
+    *9.0 Blog
+*/
+.sec-blog-post .blog-comment .comment .comment-box .media-body .comment-time::before{
+    margin-right: 0px;
+    margin-left: 10px;
+}
+.sec-blog-post .blog-submit h4{
+    text-align: right;
+}
+.sec-blog-post .blog-post .blog-post-body blockquote{
+    padding: 40px 60px 40px 20px;
+    text-align: right;
+    border-left: 0px;
+    border-right: 2px solid #4776e6;
+}
+.sec-blog-post .blog-post .blog-post-body blockquote p{
+    text-align: right;
+}
+.sec-blog-post .blog-post .blog-post-body blockquote .fa{
+    left: auto;
+    right: 31px;
+}
+.sec-blog-post .blog-comment .comment .comment-box .media-left {
+    padding: 0 20px;
+}
+.sec-blog-post .blog-comment .comment .comment-box .media-body,.sec-blog-post .blog-comment h4{
+    text-align: right;
+}
+.sec-blog-post .blog-submit form button{
+  float: right;  
+}
+/*
+    * 10.0 Contact
+*/
+#contact .fw-col-xs-12.fw-col-md-8.col-sm-6,#contact .fw-col-xs-12.fw-col-md-4.col-sm-6{
+    float: left;
+} 
+.sec-contact form .form-group input, .sec-contact form .form-group textarea {
+    text-align: right;
+}
+.sec-contact form button i {
+    right: 37%;
+}
+.sec-contact .contact {
+    direction: ltr;
+}
+/*11.0 
+* Media Query
+*/
+/*
+11.1
+*/
+@media (min-width: 768px){
+    nav .navbar-collapse .navbar-right > li + li {
+        margin-left: 0px;
+        margin-right: 10px;
+    }
+}
+/*
+11.2
+*/
+@media (min-width: 992px){
+    nav .navbar-collapse .navbar-right > li + li {
+        margin-left: 0px;
+        margin-right: 25px;
+    }
+    .col-md-offset-2 {
+        margin-left: 16.66666667%;
+        margin-right: 0;
+    }
+}
+/*
+11.3
+*/
+@media (min-width: 1200px){
+    nav .navbar-collapse .navbar-right > li + li {
+        margin-left: 0px;
+        margin-right: 50px;
+    }     
+    header.blog-detail .breadcrumb span + span::before {
+        bottom: -2px;
+        left: 100px!important;
+        right: -15px;
+    }
+	header.blog-list .breadcrumb span + span::before{
+		bottom: -2px;
+        left: 64px!important;
+        right: -15px;
+	}
+}
+/*
+11.4
+*/
+@media (min-width: 1921px){
+    header::after,.vertical:after,header.header-home::after{
+        right: auto;
+    }
+}
+/*
+11.5
+*/
+@media (max-width:767px){
+    header::after{
+        top: calc(150%);
+    }
+    header.header-home::after{
+        top: calc(114%);
+    }
+    .vertical:after{
+        top: calc(118%);
+    }
+    nav .navbar-collapse{
+        right: auto;
+        left: auto;
+    }
+    header a:last-child, .slider-caption .col-header-txt a:last-child {
+        margin-left: 0px;
+        margin-right: 5px;
+    }
+}
+/*
+11.6
+*/
+@media (max-width: 480px){
+    .slider-caption .col-header-txt a:last-child {
+        margin-right: 5px;
+        margin-left: 0;
+    }
+}

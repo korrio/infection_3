@@ -1,0 +1,100 @@
+<wpml-config>
+    
+    <custom-fields>
+        <custom-field action="translate">post_audio</custom-field>
+        <custom-field action="translate">video</custom-field>
+        
+        <custom-field action="translate">pagegeneral</custom-field>
+        <custom-field action="translate">pagesettings</custom-field>
+    </custom-fields>
+    
+    <custom-types>
+        <custom-type translate="1">screenshot</custom-type>
+    </custom-types>
+    
+    <taxonomies>
+        <taxonomy translate="1">scr_cat</taxonomy>
+    </taxonomies>
+    
+    <admin-texts>
+        
+        <key name="header" />
+        <key name="favicon" />
+        <key name="header_menu" />
+        <key name="is_getnow_btn" />
+        <key name="is_getnow_item" />
+        <key name="getnow_btntext" />
+        <key name="is_horizontal_header" />
+        <key name="falogo_options" />
+        <key name="falogo" />
+        <key name="falogo_text" />
+        <key name="falogo_color" />
+        <key name="fa_outer_logo_img" />
+        <key name="fa_inner_logo_img" />
+        <key name="falogo_height" />
+        <key name="falogo_padding" />
+        
+        <key name="loader" />
+        <key name="loader_status" />
+        <key name="loaders" />
+        
+        <key name="colorandstyle" />
+        <key name="custom_css" />
+        <key name="primary_color" />
+        <key name="primary_color_grd" />
+        <key name="ftitle_color" />
+        <key name="body_colors" />
+              
+        <key name="posts" />
+        <key name="single_post_title" />
+        <key name="is_single_breadcrumb" />
+        <key name="share_status" />
+        <key name="share_buttons" />
+        <key name="get_app_footer" />
+        <key name="get_app_item" />
+        <key name="get_app_bg" />
+        <key name="getapp_heading" />
+        <key name="getapp_param" />
+        <key name="getapp_dwnload" />
+        <key name="get_app_buttons" />
+        <key name="get_app_right_bg" />
+        
+        <key name="blog" />   
+        <key name="blog_post_title" />   
+        <key name="is_blog_breadcrumb" />   
+        <key name="blog_breadcum_title" />   
+        <key name="posts_per_page" />   
+        <key name="blog_get_app_footer" />   
+        
+        <key name="blog_get_app_bg" />   
+        <key name="blog_getapp_heading" />   
+        <key name="blog_getapp_param" />   
+        <key name="blog_getapp_dwnload" />   
+        <key name="blog_get_app_buttons" />   
+        <key name="head_title" />   
+        <key name="button_label" />   
+        <key name="button_link" />   
+        <key name="blog_get_app_right_bg" />
+                
+        <key name="api_settings" />
+        <key name="gmap_apikey" />
+        <key name="mailchimp" />
+        
+        <key name="404" />
+        <key name="four_heading" />
+        <key name="four_content" />
+        <key name="four_button_label" />
+        <key name="four_button_link" />
+                
+        <key name="footer" />
+        <key name="footer_bg" />
+        <key name="footer_title" />
+        <key name="title_color" />
+        <key name="title_font_size" />
+        <key name="footer_subtitle" />
+        <key name="footer_sub_title_color" />
+        <key name="footer_sub_font_size" />
+        <key name="site_info" />
+             
+    </admin-texts>    
+</wpml-config>
